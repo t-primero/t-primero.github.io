@@ -22,7 +22,7 @@ website:
 
 format:
   html:
-    theme: yeti
+    theme: darkly
     css: styles.css
     toc: false
     page-layout: full

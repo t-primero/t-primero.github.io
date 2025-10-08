@@ -4,7 +4,7 @@
     "href": "contact.html",
     "title": "Contact Me",
     "section": "",
-    "text": "I’m always interested in discussing new opportunities, collaborations, or just chatting about data and technology.\n\n\n\n\n📧 Email: your.email@university.edu\n💼 LinkedIn: linkedin.com/in/yourprofile\n🐙 GitHub: github.com/t-primero\n📍 Location: [Your City, State]\n\n\n\n\n\nBrief paragraph about what opportunities interest you: - Internships in data engineering/analytics - Research collaborations - Freelance projects - Networking with professionals in [industry]\n\n\n\n\nYou can also reach me using this form:\n\n\n&lt;label for=\"name\"&gt;Name:&lt;/label&gt;&lt;br&gt;\n&lt;input type=\"text\" id=\"name\" name=\"name\" required style=\"width: 100%; padding: 0.5rem;\"&gt;\n\n\n&lt;label for=\"email\"&gt;Email:&lt;/label&gt;&lt;br&gt;\n&lt;input type=\"email\" id=\"email\" name=\"email\" required style=\"width: 100%; padding: 0.5rem;\"&gt;\n\n\n&lt;label for=\"message\"&gt;Message:&lt;/label&gt;&lt;br&gt;\n&lt;textarea id=\"message\" name=\"message\" rows=\"5\" required style=\"width: 100%; padding: 0.5rem;\"&gt;&lt;/textarea&gt;\n\n\nSend Message\n\n\nFor the contact form, sign up at formspree.io to get your form ID."
+    "text": "I’m always interested in discussing new opportunities, collaborations, or just chatting about data and technology.\n\n\n\n\n📧 Email: tprimero@bu.edu\n💼 LinkedIn: linkedin.com/in/thomas-primero\n🐙 GitHub: github.com/t-primero\n\n\n\n\n\nBrief paragraph about what opportunities interest you:\n\nInternships in data engineering/analytics\nResearch collaborations\nFreelance projects\nNetworking with professionals in [industry]"
   },
   {
     "objectID": "contact.html#lets-connect",
@@ -18,21 +18,14 @@
     "href": "contact.html#get-in-touch",
     "title": "Contact Me",
     "section": "",
-    "text": "📧 Email: your.email@university.edu\n💼 LinkedIn: linkedin.com/in/yourprofile\n🐙 GitHub: github.com/t-primero\n📍 Location: [Your City, State]"
+    "text": "📧 Email: tprimero@bu.edu\n💼 LinkedIn: linkedin.com/in/thomas-primero\n🐙 GitHub: github.com/t-primero"
   },
   {
     "objectID": "contact.html#what-im-looking-for",
     "href": "contact.html#what-im-looking-for",
     "title": "Contact Me",
     "section": "",
-    "text": "Brief paragraph about what opportunities interest you: - Internships in data engineering/analytics - Research collaborations - Freelance projects - Networking with professionals in [industry]"
-  },
-  {
-    "objectID": "contact.html#contact-form",
-    "href": "contact.html#contact-form",
-    "title": "Contact Me",
-    "section": "",
-    "text": "You can also reach me using this form:\n\n\n&lt;label for=\"name\"&gt;Name:&lt;/label&gt;&lt;br&gt;\n&lt;input type=\"text\" id=\"name\" name=\"name\" required style=\"width: 100%; padding: 0.5rem;\"&gt;\n\n\n&lt;label for=\"email\"&gt;Email:&lt;/label&gt;&lt;br&gt;\n&lt;input type=\"email\" id=\"email\" name=\"email\" required style=\"width: 100%; padding: 0.5rem;\"&gt;\n\n\n&lt;label for=\"message\"&gt;Message:&lt;/label&gt;&lt;br&gt;\n&lt;textarea id=\"message\" name=\"message\" rows=\"5\" required style=\"width: 100%; padding: 0.5rem;\"&gt;&lt;/textarea&gt;\n\n\nSend Message\n\n\nFor the contact form, sign up at formspree.io to get your form ID."
+    "text": "Brief paragraph about what opportunities interest you:\n\nInternships in data engineering/analytics\nResearch collaborations\nFreelance projects\nNetworking with professionals in [industry]"
   },
   {
     "objectID": "projects.html",
@@ -74,7 +67,7 @@
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "I’m a 2nd year Master’s student studying Business Analytics at Boston University, with a passion for cloud analytics, data engineering, and machine learning.\n\n\n\n[ insert background ]\n\n\n\nI specialize in:\n\nCloud Computing: Working with AWS, EC2, and cloud-based data solutions\nData Analytics: Using Spark, Python, and R for large-scale data processing\nMachine Learning: Building predictive models and classification algorithms\nData Visualization: Creating interactive dashboards with Plotly and Tableau\n\n\n\n\nProgramming Languages: Python, R, SQL, Java\nTechnologies: Apache Spark, AWS, GitHub, Quarto, Jupyter\nTools: VS Code, RStudio, Git\n\n\n\nAlthough currently working as a payroll analyst, my current career goals are to …\n\n\n\nWhen I’m not analyzing data, I enjoy: - Being active at the gym/outdoors - Traveling - Reading books"
+    "text": "I’m a 2nd year Master’s student studying Business Analytics at Boston University, with a passion for cloud analytics, data engineering, and machine learning.\n\n\n\n[ insert background ]\n\n\n\nI specialize in:\n\nCloud Computing: Working with AWS, EC2, and cloud-based data solutions\nData Analytics: Using Spark, Python, and R for large-scale data processing\nMachine Learning: Building predictive models and classification algorithms\nData Visualization: Creating interactive dashboards with Plotly and Tableau\n\n\n\n\nProgramming Languages: Python, R, SQL, Java\nTechnologies: Apache Spark, AWS, GitHub, Quarto, Jupyter\nTools: VS Code, RStudio, Git\n\n\n\nAlthough currently working as a payroll analyst, my current career goals are to …\n\n\n\nWhen I’m not analyzing data, I enjoy:\n\nBeing active at the gym/outdoors\nTraveling\nReading books"
   },
   {
     "objectID": "index.html#hi-im-thomas-primero",
@@ -116,21 +109,14 @@
     "href": "index.html#interests",
     "title": "About Me",
     "section": "",
-    "text": "When I’m not analyzing data, I enjoy: - Being active at the gym/outdoors - Traveling - Reading books"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
+    "text": "When I’m not analyzing data, I enjoy:\n\nBeing active at the gym/outdoors\nTraveling\nReading books"
   },
   {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "Download Full CV (PDF) \n\n\n\n\nBrief 2-3 sentence summary of your experience, skills, and career objectives.\n\n\n\n[Your University Name]\nBachelor of Science in [Your Major]\nExpected Graduation: [Month Year]\nGPA: [Your GPA] (if good)\nRelevant Coursework: - Cloud Analytics - Machine Learning - Data Structures & Algorithms - Database Systems - Statistical Methods\n\n\n\nProgramming: Python, R, SQL, Java, JavaScript\nData Tools: Apache Spark, Pandas, NumPy, Scikit-learn\nCloud & DevOps: AWS (EC2, S3), Git, GitHub, Docker\nVisualization: Plotly, ggplot2, Tableau, Matplotlib\nOther: Quarto, Jupyter, RStudio, VS Code\n\n\n\n\n\n[Company/Lab Name] | [Dates]\n\nAccomplishment or responsibility 1\nAccomplishment or responsibility 2\nAccomplishment or responsibility 3\n\n\n\n\n[Organization] | [Dates]\n\nAchievement 1\nAchievement 2\n\n\n\n\n\nSee my Projects page for detailed project descriptions.\n\n\n\n\nCertification 1 (if any)\nAward 1\nDean’s List, Honor Roll, etc.\n\n\n\n\n\nClub/Organization involvement\nVolunteer work\nLeadership roles"
+    "text": "Download Full CV (PDF) \n\n\n\n\nBrief 2-3 sentence summary of your experience, skills, and career objectives.\n\n\n\nBoston University\nMaster’s of Science in Business Analytics\nExpected Graduation: Spring 2026\nRelevant Coursework: - Cloud Analytics - Machine Learning - Data Structures & Algorithms - Database Systems - Statistical Methods\n\n\n\nProgramming: Python, R, SQL, Java, JavaScript\nData Tools: Apache Spark, Pandas, NumPy, Scikit-learn\nCloud & DevOps: AWS (EC2, S3), Git, GitHub, Docker\nVisualization: Plotly, ggplot2, Tableau, Matplotlib\nOther: Quarto, Jupyter, RStudio, VS Code\n\n\n\nSee my Projects page for detailed project descriptions.\n\n\n\n\nAWS Cloud Foundations Trained"
   },
   {
     "objectID": "cv.html#download-my-cv",
@@ -151,7 +137,7 @@
     "href": "cv.html#education",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "[Your University Name]\nBachelor of Science in [Your Major]\nExpected Graduation: [Month Year]\nGPA: [Your GPA] (if good)\nRelevant Coursework: - Cloud Analytics - Machine Learning - Data Structures & Algorithms - Database Systems - Statistical Methods"
+    "text": "Boston University\nMaster’s of Science in Business Analytics\nExpected Graduation: Spring 2026\nRelevant Coursework: - Cloud Analytics - Machine Learning - Data Structures & Algorithms - Database Systems - Statistical Methods"
   },
   {
     "objectID": "cv.html#technical-skills",
@@ -159,13 +145,6 @@
     "title": "Curriculum Vitae",
     "section": "",
     "text": "Programming: Python, R, SQL, Java, JavaScript\nData Tools: Apache Spark, Pandas, NumPy, Scikit-learn\nCloud & DevOps: AWS (EC2, S3), Git, GitHub, Docker\nVisualization: Plotly, ggplot2, Tableau, Matplotlib\nOther: Quarto, Jupyter, RStudio, VS Code"
-  },
-  {
-    "objectID": "cv.html#experience",
-    "href": "cv.html#experience",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "[Company/Lab Name] | [Dates]\n\nAccomplishment or responsibility 1\nAccomplishment or responsibility 2\nAccomplishment or responsibility 3\n\n\n\n\n[Organization] | [Dates]\n\nAchievement 1\nAchievement 2"
   },
   {
     "objectID": "cv.html#projects",
@@ -179,13 +158,6 @@
     "href": "cv.html#certifications-awards",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "Certification 1 (if any)\nAward 1\nDean’s List, Honor Roll, etc."
-  },
-  {
-    "objectID": "cv.html#leadership-activities",
-    "href": "cv.html#leadership-activities",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Club/Organization involvement\nVolunteer work\nLeadership roles"
+    "text": "AWS Cloud Foundations Trained"
   }
 ]

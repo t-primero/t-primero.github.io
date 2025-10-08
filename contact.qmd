@@ -12,13 +12,12 @@ I'm always interested in discussing new opportunities, collaborations, or just c
 
 <div style="font-size: 1.2em; line-height: 2;">
 
-📧 **Email**: [your.email@university.edu](mailto:your.email@university.edu)
+📧 **Email**: [tprimero@bu.edu](mailto:tprimero@bu.edu)
 
-💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
+💼 **LinkedIn**: [linkedin.com/in/thomas-primero](https://www.linkedin.com/in/thomas-primero-1b7094173/)
 
 🐙 **GitHub**: [github.com/t-primero](https://github.com/t-primero)
 
-📍 **Location**: [Your City, State]
 
 </div>
 
@@ -27,38 +26,10 @@ I'm always interested in discussing new opportunities, collaborations, or just c
 ## What I'm Looking For
 
 Brief paragraph about what opportunities interest you:
+
 - Internships in data engineering/analytics
 - Research collaborations
 - Freelance projects
 - Networking with professionals in [industry]
-
----
-
-## Contact Form
-
-You can also reach me using this form:
-
-<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST" style="max-width: 600px;">
-  <div style="margin-bottom: 1rem;">
-    <label for="name">Name:</label><br>
-    <input type="text" id="name" name="name" required style="width: 100%; padding: 0.5rem;">
-  </div>
-  
-  <div style="margin-bottom: 1rem;">
-    <label for="email">Email:</label><br>
-    <input type="email" id="email" name="email" required style="width: 100%; padding: 0.5rem;">
-  </div>
-  
-  <div style="margin-bottom: 1rem;">
-    <label for="message">Message:</label><br>
-    <textarea id="message" name="message" rows="5" required style="width: 100%; padding: 0.5rem;"></textarea>
-  </div>
-  
-  <button type="submit" style="padding: 0.5rem 2rem; background-color: #0066cc; color: white; border: none; cursor: pointer;">
-    Send Message
-  </button>
-</form>
-
-*For the contact form, sign up at [formspree.io](https://formspree.io) to get your form ID.*
 
 :::

@@ -18,10 +18,9 @@ Brief 2-3 sentence summary of your experience, skills, and career objectives.
 
 ## Education
 
-**[Your University Name]**  
-*Bachelor of Science in [Your Major]*  
-Expected Graduation: [Month Year]  
-GPA: [Your GPA] (if good)
+**Boston University**  
+*Master's of Science in Business Analytics*  
+Expected Graduation: Spring 2026  
 
 **Relevant Coursework**:
 - Cloud Analytics
@@ -42,20 +41,7 @@ GPA: [Your GPA] (if good)
 
 **Other**: Quarto, Jupyter, RStudio, VS Code
 
-## Experience
 
-### [Job Title or Research Position]
-*[Company/Lab Name] | [Dates]*
-
-- Accomplishment or responsibility 1
-- Accomplishment or responsibility 2
-- Accomplishment or responsibility 3
-
-### [Another Position]
-*[Organization] | [Dates]*
-
-- Achievement 1
-- Achievement 2
 
 ## Projects
 
@@ -63,14 +49,6 @@ See my [Projects page](projects.qmd) for detailed project descriptions.
 
 ## Certifications & Awards
 
-- Certification 1 (if any)
-- Award 1
-- Dean's List, Honor Roll, etc.
-
-## Leadership & Activities
-
-- Club/Organization involvement
-- Volunteer work
-- Leadership roles
+- AWS Cloud Foundations Trained
 
 :::
