@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://t-primero.github.io/projects.html</loc>
+    <lastmod>2025-10-08T04:12:40.639Z</lastmod>
+  </url>
+  <url>
+    <loc>https://t-primero.github.io/cv.html</loc>
+    <lastmod>2025-10-08T04:12:40.632Z</lastmod>
+  </url>
+  <url>
     <loc>https://t-primero.github.io/index.html</loc>
-    <lastmod>2025-09-07T22:36:19.530Z</lastmod>
+    <lastmod>2025-10-08T04:12:40.638Z</lastmod>
+  </url>
+  <url>
+    <loc>https://t-primero.github.io/contact.html</loc>
+    <lastmod>2025-10-08T04:12:40.632Z</lastmod>
   </url>
   <url>
     <loc>https://t-primero.github.io/about.html</loc>
-    <lastmod>2025-09-07T22:36:19.530Z</lastmod>
+    <lastmod>2025-10-08T04:12:40.632Z</lastmod>
   </url>
 </urlset>
