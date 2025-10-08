@@ -1,0 +1,191 @@
+[
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Me",
+    "section": "",
+    "text": "I’m always interested in discussing new opportunities, collaborations, or just chatting about data and technology.\n\n\n\n\n📧 Email: your.email@university.edu\n💼 LinkedIn: linkedin.com/in/yourprofile\n🐙 GitHub: github.com/t-primero\n📍 Location: [Your City, State]\n\n\n\n\n\nBrief paragraph about what opportunities interest you: - Internships in data engineering/analytics - Research collaborations - Freelance projects - Networking with professionals in [industry]\n\n\n\n\nYou can also reach me using this form:\n\n\n&lt;label for=\"name\"&gt;Name:&lt;/label&gt;&lt;br&gt;\n&lt;input type=\"text\" id=\"name\" name=\"name\" required style=\"width: 100%; padding: 0.5rem;\"&gt;\n\n\n&lt;label for=\"email\"&gt;Email:&lt;/label&gt;&lt;br&gt;\n&lt;input type=\"email\" id=\"email\" name=\"email\" required style=\"width: 100%; padding: 0.5rem;\"&gt;\n\n\n&lt;label for=\"message\"&gt;Message:&lt;/label&gt;&lt;br&gt;\n&lt;textarea id=\"message\" name=\"message\" rows=\"5\" required style=\"width: 100%; padding: 0.5rem;\"&gt;&lt;/textarea&gt;\n\n\nSend Message\n\n\nFor the contact form, sign up at formspree.io to get your form ID."
+  },
+  {
+    "objectID": "contact.html#lets-connect",
+    "href": "contact.html#lets-connect",
+    "title": "Contact Me",
+    "section": "",
+    "text": "I’m always interested in discussing new opportunities, collaborations, or just chatting about data and technology."
+  },
+  {
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "Contact Me",
+    "section": "",
+    "text": "📧 Email: your.email@university.edu\n💼 LinkedIn: linkedin.com/in/yourprofile\n🐙 GitHub: github.com/t-primero\n📍 Location: [Your City, State]"
+  },
+  {
+    "objectID": "contact.html#what-im-looking-for",
+    "href": "contact.html#what-im-looking-for",
+    "title": "Contact Me",
+    "section": "",
+    "text": "Brief paragraph about what opportunities interest you: - Internships in data engineering/analytics - Research collaborations - Freelance projects - Networking with professionals in [industry]"
+  },
+  {
+    "objectID": "contact.html#contact-form",
+    "href": "contact.html#contact-form",
+    "title": "Contact Me",
+    "section": "",
+    "text": "You can also reach me using this form:\n\n\n&lt;label for=\"name\"&gt;Name:&lt;/label&gt;&lt;br&gt;\n&lt;input type=\"text\" id=\"name\" name=\"name\" required style=\"width: 100%; padding: 0.5rem;\"&gt;\n\n\n&lt;label for=\"email\"&gt;Email:&lt;/label&gt;&lt;br&gt;\n&lt;input type=\"email\" id=\"email\" name=\"email\" required style=\"width: 100%; padding: 0.5rem;\"&gt;\n\n\n&lt;label for=\"message\"&gt;Message:&lt;/label&gt;&lt;br&gt;\n&lt;textarea id=\"message\" name=\"message\" rows=\"5\" required style=\"width: 100%; padding: 0.5rem;\"&gt;&lt;/textarea&gt;\n\n\nSend Message\n\n\nFor the contact form, sign up at formspree.io to get your form ID."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here are some of my key projects that demonstrate my skills in data analytics, machine learning, and cloud computing.\n\n\n\n\n\n\nProject Screenshot or Diagram\n\n\nDescription: Brief description of what this project does and what problem it solves. 2-3 sentences.\nTechnologies Used: Python, Spark, AWS, Pandas, Scikit-learn\nKey Features: - Feature 1: Description - Feature 2: Description - Feature 3: Description\nOutcomes: What did you learn? What were the results? Any metrics?\nLinks: GitHub Repository | Live Demo\n\n\n\n\n\nDescription: Another project description.\nTechnologies Used: R, Quarto, ggplot2, Shiny\nKey Features: - Feature 1 - Feature 2 - Feature 3\nOutcomes: Results and learnings\nLinks: GitHub\n\n\n\n\nDescription: Built a machine learning classifier using Spark ML to predict [something]. Implemented multiple algorithms including Random Forest, Logistic Regression, and Gradient-Boosted Trees.\nTechnologies Used: Apache Spark, PySpark, Python, Jupyter Notebooks\nKey Features: - Dimensionality reduction using PCA - Multiple classification algorithms comparison - Model evaluation with cross-validation - Deployed on AWS EC2\nResults: Achieved XX% accuracy with Random Forest model. Full analysis available on GitHub.\nLinks: GitHub Repository | Report\n\n\n\n\nCheck out my GitHub profile for more projects including: - Project idea 1 - Project idea 2 - Project idea 3"
+  },
+  {
+    "objectID": "projects.html#project-1-project-name",
+    "href": "projects.html#project-1-project-name",
+    "title": "Projects",
+    "section": "",
+    "text": "Project Screenshot or Diagram\n\n\nDescription: Brief description of what this project does and what problem it solves. 2-3 sentences.\nTechnologies Used: Python, Spark, AWS, Pandas, Scikit-learn\nKey Features: - Feature 1: Description - Feature 2: Description - Feature 3: Description\nOutcomes: What did you learn? What were the results? Any metrics?\nLinks: GitHub Repository | Live Demo"
+  },
+  {
+    "objectID": "projects.html#project-2-project-name",
+    "href": "projects.html#project-2-project-name",
+    "title": "Projects",
+    "section": "",
+    "text": "Description: Another project description.\nTechnologies Used: R, Quarto, ggplot2, Shiny\nKey Features: - Feature 1 - Feature 2 - Feature 3\nOutcomes: Results and learnings\nLinks: GitHub"
+  },
+  {
+    "objectID": "projects.html#project-3-machine-learning-classification",
+    "href": "projects.html#project-3-machine-learning-classification",
+    "title": "Projects",
+    "section": "",
+    "text": "Description: Built a machine learning classifier using Spark ML to predict [something]. Implemented multiple algorithms including Random Forest, Logistic Regression, and Gradient-Boosted Trees.\nTechnologies Used: Apache Spark, PySpark, Python, Jupyter Notebooks\nKey Features: - Dimensionality reduction using PCA - Multiple classification algorithms comparison - Model evaluation with cross-validation - Deployed on AWS EC2\nResults: Achieved XX% accuracy with Random Forest model. Full analysis available on GitHub.\nLinks: GitHub Repository | Report"
+  },
+  {
+    "objectID": "projects.html#more-projects",
+    "href": "projects.html#more-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Check out my GitHub profile for more projects including: - Project idea 1 - Project idea 2 - Project idea 3"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a 2nd year Master’s student studying Business Analytics at Boston University, with a passion for cloud analytics, data engineering, and machine learning.\n\n\n\n[ insert background ]\n\n\n\nI specialize in:\n\nCloud Computing: Working with AWS, EC2, and cloud-based data solutions\nData Analytics: Using Spark, Python, and R for large-scale data processing\nMachine Learning: Building predictive models and classification algorithms\nData Visualization: Creating interactive dashboards with Plotly and Tableau\n\n\n\n\nProgramming Languages: Python, R, SQL, Java\nTechnologies: Apache Spark, AWS, GitHub, Quarto, Jupyter\nTools: VS Code, RStudio, Git\n\n\n\nAlthough currently working as a payroll analyst, my current career goals are to …\n\n\n\nWhen I’m not analyzing data, I enjoy: - Being active at the gym/outdoors - Traveling - Reading books"
+  },
+  {
+    "objectID": "index.html#hi-im-thomas-primero",
+    "href": "index.html#hi-im-thomas-primero",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a 2nd year Master’s student studying Business Analytics at Boston University, with a passion for cloud analytics, data engineering, and machine learning."
+  },
+  {
+    "objectID": "index.html#background",
+    "href": "index.html#background",
+    "title": "About Me",
+    "section": "",
+    "text": "[ insert background ]"
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "About Me",
+    "section": "",
+    "text": "I specialize in:\n\nCloud Computing: Working with AWS, EC2, and cloud-based data solutions\nData Analytics: Using Spark, Python, and R for large-scale data processing\nMachine Learning: Building predictive models and classification algorithms\nData Visualization: Creating interactive dashboards with Plotly and Tableau"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "About Me",
+    "section": "",
+    "text": "Programming Languages: Python, R, SQL, Java\nTechnologies: Apache Spark, AWS, GitHub, Quarto, Jupyter\nTools: VS Code, RStudio, Git"
+  },
+  {
+    "objectID": "index.html#career-goals",
+    "href": "index.html#career-goals",
+    "title": "About Me",
+    "section": "",
+    "text": "Although currently working as a payroll analyst, my current career goals are to …"
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "About Me",
+    "section": "",
+    "text": "When I’m not analyzing data, I enjoy: - Being active at the gym/outdoors - Traveling - Reading books"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download Full CV (PDF) \n\n\n\n\nBrief 2-3 sentence summary of your experience, skills, and career objectives.\n\n\n\n[Your University Name]\nBachelor of Science in [Your Major]\nExpected Graduation: [Month Year]\nGPA: [Your GPA] (if good)\nRelevant Coursework: - Cloud Analytics - Machine Learning - Data Structures & Algorithms - Database Systems - Statistical Methods\n\n\n\nProgramming: Python, R, SQL, Java, JavaScript\nData Tools: Apache Spark, Pandas, NumPy, Scikit-learn\nCloud & DevOps: AWS (EC2, S3), Git, GitHub, Docker\nVisualization: Plotly, ggplot2, Tableau, Matplotlib\nOther: Quarto, Jupyter, RStudio, VS Code\n\n\n\n\n\n[Company/Lab Name] | [Dates]\n\nAccomplishment or responsibility 1\nAccomplishment or responsibility 2\nAccomplishment or responsibility 3\n\n\n\n\n[Organization] | [Dates]\n\nAchievement 1\nAchievement 2\n\n\n\n\n\nSee my Projects page for detailed project descriptions.\n\n\n\n\nCertification 1 (if any)\nAward 1\nDean’s List, Honor Roll, etc.\n\n\n\n\n\nClub/Organization involvement\nVolunteer work\nLeadership roles"
+  },
+  {
+    "objectID": "cv.html#download-my-cv",
+    "href": "cv.html#download-my-cv",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download Full CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#professional-summary",
+    "href": "cv.html#professional-summary",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Brief 2-3 sentence summary of your experience, skills, and career objectives."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "[Your University Name]\nBachelor of Science in [Your Major]\nExpected Graduation: [Month Year]\nGPA: [Your GPA] (if good)\nRelevant Coursework: - Cloud Analytics - Machine Learning - Data Structures & Algorithms - Database Systems - Statistical Methods"
+  },
+  {
+    "objectID": "cv.html#technical-skills",
+    "href": "cv.html#technical-skills",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Programming: Python, R, SQL, Java, JavaScript\nData Tools: Apache Spark, Pandas, NumPy, Scikit-learn\nCloud & DevOps: AWS (EC2, S3), Git, GitHub, Docker\nVisualization: Plotly, ggplot2, Tableau, Matplotlib\nOther: Quarto, Jupyter, RStudio, VS Code"
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "[Company/Lab Name] | [Dates]\n\nAccomplishment or responsibility 1\nAccomplishment or responsibility 2\nAccomplishment or responsibility 3\n\n\n\n\n[Organization] | [Dates]\n\nAchievement 1\nAchievement 2"
+  },
+  {
+    "objectID": "cv.html#projects",
+    "href": "cv.html#projects",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "See my Projects page for detailed project descriptions."
+  },
+  {
+    "objectID": "cv.html#certifications-awards",
+    "href": "cv.html#certifications-awards",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Certification 1 (if any)\nAward 1\nDean’s List, Honor Roll, etc."
+  },
+  {
+    "objectID": "cv.html#leadership-activities",
+    "href": "cv.html#leadership-activities",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Club/Organization involvement\nVolunteer work\nLeadership roles"
+  }
+]

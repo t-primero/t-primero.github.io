@@ -1,21 +1,30 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Thomas Primero"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "About Me"
+        href: index.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Contact"
+        href: contact.qmd
+    right:
+      - icon: github
+        href: https://github.com/t-primero
+      - icon: linkedin
+        href: https://www.linkedin.com/in/thomas-primero-1b7094173/
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: yeti
     css: styles.css
-    toc: true
-
+    toc: false
+    page-layout: full
 
 

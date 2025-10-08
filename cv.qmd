@@ -1,0 +1,76 @@
+---
+title: "Curriculum Vitae"
+---
+
+::: {.column-page}
+
+## Download My CV
+
+<a href="files/your-cv.pdf" class="btn btn-primary" download>
+  <i class="bi bi-download"></i> Download Full CV (PDF)
+</a>
+
+---
+
+## Professional Summary
+
+Brief 2-3 sentence summary of your experience, skills, and career objectives.
+
+## Education
+
+**[Your University Name]**  
+*Bachelor of Science in [Your Major]*  
+Expected Graduation: [Month Year]  
+GPA: [Your GPA] (if good)
+
+**Relevant Coursework**:
+- Cloud Analytics
+- Machine Learning
+- Data Structures & Algorithms
+- Database Systems
+- Statistical Methods
+
+## Technical Skills
+
+**Programming**: Python, R, SQL, Java, JavaScript
+
+**Data Tools**: Apache Spark, Pandas, NumPy, Scikit-learn
+
+**Cloud & DevOps**: AWS (EC2, S3), Git, GitHub, Docker
+
+**Visualization**: Plotly, ggplot2, Tableau, Matplotlib
+
+**Other**: Quarto, Jupyter, RStudio, VS Code
+
+## Experience
+
+### [Job Title or Research Position]
+*[Company/Lab Name] | [Dates]*
+
+- Accomplishment or responsibility 1
+- Accomplishment or responsibility 2
+- Accomplishment or responsibility 3
+
+### [Another Position]
+*[Organization] | [Dates]*
+
+- Achievement 1
+- Achievement 2
+
+## Projects
+
+See my [Projects page](projects.qmd) for detailed project descriptions.
+
+## Certifications & Awards
+
+- Certification 1 (if any)
+- Award 1
+- Dean's List, Honor Roll, etc.
+
+## Leadership & Activities
+
+- Club/Organization involvement
+- Volunteer work
+- Leadership roles
+
+:::

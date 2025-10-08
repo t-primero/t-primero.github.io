@@ -1,0 +1,83 @@
+---
+title: "Projects"
+---
+
+::: {.column-page}
+
+Here are some of my key projects that demonstrate my skills in data analytics, machine learning, and cloud computing.
+
+---
+
+## 🎯 Project 1: [Project Name]
+
+![Project Screenshot or Diagram](images/project1.png)
+
+**Description**: 
+Brief description of what this project does and what problem it solves. 2-3 sentences.
+
+**Technologies Used**: 
+Python, Spark, AWS, Pandas, Scikit-learn
+
+**Key Features**:
+- Feature 1: Description
+- Feature 2: Description
+- Feature 3: Description
+
+**Outcomes**: 
+What did you learn? What were the results? Any metrics?
+
+**Links**: [GitHub Repository](https://github.com/t-primero/project1) | [Live Demo](#)
+
+---
+
+## 📊 Project 2: [Project Name]
+
+![](images/project2.png)
+
+**Description**: 
+Another project description.
+
+**Technologies Used**: 
+R, Quarto, ggplot2, Shiny
+
+**Key Features**:
+- Feature 1
+- Feature 2
+- Feature 3
+
+**Outcomes**: 
+Results and learnings
+
+**Links**: [GitHub](https://github.com/t-primero/project2)
+
+---
+
+## 🤖 Project 3: Machine Learning Classification
+
+**Description**: 
+Built a machine learning classifier using Spark ML to predict [something]. Implemented multiple algorithms including Random Forest, Logistic Regression, and Gradient-Boosted Trees.
+
+**Technologies Used**: 
+Apache Spark, PySpark, Python, Jupyter Notebooks
+
+**Key Features**:
+- Dimensionality reduction using PCA
+- Multiple classification algorithms comparison
+- Model evaluation with cross-validation
+- Deployed on AWS EC2
+
+**Results**: 
+Achieved XX% accuracy with Random Forest model. Full analysis available on GitHub.
+
+**Links**: [GitHub Repository](https://github.com/t-primero/ml-project) | [Report](files/ml-report.pdf)
+
+---
+
+## 💡 More Projects
+
+Check out my [GitHub profile](https://github.com/t-primero) for more projects including:
+- Project idea 1
+- Project idea 2
+- Project idea 3
+
+:::
