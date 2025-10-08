@@ -23,11 +23,10 @@ Brief 2-3 sentence summary of your experience, skills, and career objectives.
 Expected Graduation: Spring 2026  
 
 **Relevant Coursework**:
+
 - Cloud Analytics
-- Machine Learning
-- Data Structures & Algorithms
-- Database Systems
-- Statistical Methods
+- Marketing Analytics
+- Business Analytics
 
 ## Technical Skills
 
