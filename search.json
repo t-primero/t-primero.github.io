@@ -32,7 +32,7 @@
     "href": "contact.html",
     "title": "Contact Me",
     "section": "",
-    "text": "I’m always interested in discussing new opportunities, collaborations, or just chatting about data and technology.\n\n\n\n\n📧 Email: tprimero@bu.edu\n💼 LinkedIn: linkedin.com/in/thomas-primero\n🐙 GitHub: github.com/t-primero\n\n\n\n\n\n\n\n\nI’m actively seeking full-time data analyst and data scientist roles starting May 2026 (upon graduation). I’m particularly interested in positions that emphasize exploratory data analysis, statistical modeling, and translating complex datasets into actionable business insights—especially within marketing analytics or research-focused teams.\nI’m also open to:\n\nNetworking conversations with data professionals about career paths and industry trends\nCollaborative projects involving data mining, machine learning, or predictive modeling\nInformational interviews at companies tackling interesting data challenges\n\nFeel free to reach out if you’d like to discuss opportunities, grab coffee (virtual or in-person), or connect about all things data!"
+    "text": "I’m always interested in discussing new opportunities, collaborations, or just chatting about data and technology.\n\n\n\n\n📧 Email: tprimero@bu.edu\n💼 LinkedIn: linkedin.com/in/thomas-primero\n🐙 GitHub: github.com/t-primero\n\n\n\n\n\nI’m actively seeking full-time data analyst and data scientist roles starting May 2026 (upon graduation). I’m particularly interested in positions that emphasize exploratory data analysis, statistical modeling, and translating complex datasets into actionable business insights—especially within marketing analytics or research-focused teams.\nI’m also open to:\n\nNetworking conversations with data professionals about career paths and industry trends\nCollaborative projects involving data mining, machine learning, or predictive modeling\nInformational interviews at companies tackling interesting data challenges\n\nFeel free to reach out if you’d like to discuss opportunities, grab coffee (virtual or in-person), or connect about all things data!"
   },
   {
     "objectID": "contact.html#lets-connect",
@@ -49,8 +49,8 @@
     "text": "📧 Email: tprimero@bu.edu\n💼 LinkedIn: linkedin.com/in/thomas-primero\n🐙 GitHub: github.com/t-primero"
   },
   {
-    "objectID": "contact.html#what-im-looking-for-1",
-    "href": "contact.html#what-im-looking-for-1",
+    "objectID": "contact.html#what-im-looking-for",
+    "href": "contact.html#what-im-looking-for",
     "title": "Contact Me",
     "section": "",
     "text": "I’m actively seeking full-time data analyst and data scientist roles starting May 2026 (upon graduation). I’m particularly interested in positions that emphasize exploratory data analysis, statistical modeling, and translating complex datasets into actionable business insights—especially within marketing analytics or research-focused teams.\nI’m also open to:\n\nNetworking conversations with data professionals about career paths and industry trends\nCollaborative projects involving data mining, machine learning, or predictive modeling\nInformational interviews at companies tackling interesting data challenges\n\nFeel free to reach out if you’d like to discuss opportunities, grab coffee (virtual or in-person), or connect about all things data!"
@@ -102,14 +102,7 @@
     "href": "cv.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "Download Full CV (PDF) \n\n\n\n\nOperations specialist transitioning into data analytics with hands-on experience validating complex datasets and automating workflows at Charles Schwab. Currently pursuing a Master’s in Business Analytics at Boston University, specializing in data mining, machine learning, and statistical modeling. Seeking data analyst or data scientist roles where I can apply rigorous analytical skills to uncover actionable insights through exploratory analysis, feature engineering, and predictive modeling.\n\n\n\nBoston University\nMaster’s of Science in Business Analytics\nExpected Graduation: Spring 2026\nRelevant Coursework:\n\nData Mining\nMarketing Analytics\nBusiness Analytics\n\n\n\n\nProgramming: Python, R, SQL, Java, JavaScript\nData Tools: Apache Spark, Pandas, NumPy, Scikit-learn\nMachine Learning: Scikit-learn, Feature Engineering, Predictive Modeling\nVisualization: Plotly, ggplot2, Tableau, Matplotlib\nOther: Git, GitHub, AWS, Quarto, Jupyter, RStudio, VS Code\n\n\n\nSee my Projects page for detailed project descriptions.\n\n\n\n\nGoogle Data Analytics Certificate (November 2025)\nAWS Cloud Foundations Training Badge (October 2025)"
-  },
-  {
-    "objectID": "cv.html#download-my-cv",
-    "href": "cv.html#download-my-cv",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Download Full CV (PDF)"
+    "text": "Operations specialist transitioning into data analytics with hands-on experience validating complex datasets and automating workflows at Charles Schwab. Currently pursuing a Master’s in Business Analytics at Boston University, specializing in data mining, machine learning, and statistical modeling. Seeking data analyst or data scientist roles where I can apply rigorous analytical skills to uncover actionable insights through exploratory analysis, feature engineering, and predictive modeling."
   },
   {
     "objectID": "cv.html#professional-summary",
@@ -122,28 +115,28 @@
     "objectID": "cv.html#education",
     "href": "cv.html#education",
     "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Boston University\nMaster’s of Science in Business Analytics\nExpected Graduation: Spring 2026\nRelevant Coursework:\n\nData Mining\nMarketing Analytics\nBusiness Analytics"
+    "section": "Education",
+    "text": "Education\nBoston University\nMaster’s of Science in Business Analytics\nExpected Graduation: Spring 2026\nRelevant Coursework:\n\nData Mining\nMarketing Analytics\nBusiness Analytics"
   },
   {
     "objectID": "cv.html#technical-skills",
     "href": "cv.html#technical-skills",
     "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Programming: Python, R, SQL, Java, JavaScript\nData Tools: Apache Spark, Pandas, NumPy, Scikit-learn\nMachine Learning: Scikit-learn, Feature Engineering, Predictive Modeling\nVisualization: Plotly, ggplot2, Tableau, Matplotlib\nOther: Git, GitHub, AWS, Quarto, Jupyter, RStudio, VS Code"
+    "section": "Technical Skills",
+    "text": "Technical Skills\nProgramming: Python, R, SQL, Java, JavaScript\nData Tools: Apache Spark, Pandas, NumPy, Scikit-learn\nMachine Learning: Scikit-learn, Feature Engineering, Predictive Modeling\nVisualization: Plotly, ggplot2, Tableau, Matplotlib\nOther: Git, GitHub, AWS, Quarto, Jupyter, RStudio, VS Code"
   },
   {
     "objectID": "cv.html#projects",
     "href": "cv.html#projects",
     "title": "Curriculum Vitae",
-    "section": "",
-    "text": "See my Projects page for detailed project descriptions."
+    "section": "Projects",
+    "text": "Projects\nSee my Projects page for detailed project descriptions."
   },
   {
     "objectID": "cv.html#certifications",
     "href": "cv.html#certifications",
     "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Google Data Analytics Certificate (November 2025)\nAWS Cloud Foundations Training Badge (October 2025)"
+    "section": "Certifications",
+    "text": "Certifications\n\nGoogle Data Analytics Certificate (November 2025)\nAWS Cloud Foundations Training Badge (October 2025)\n\n:::"
   }
 ]
