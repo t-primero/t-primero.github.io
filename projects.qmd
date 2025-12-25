@@ -8,76 +8,52 @@ Here are some of my key projects that demonstrate my skills in data analytics, m
 
 ---
 
-## 🎯 Project 1: [Project Name]
+## 🎵 Billboard Hot 100 Analysis
 
-![Project Screenshot or Diagram](images/project1.png)
+![Billboard Chart Analysis](images/billboard-preview.png)
 
 **Description**: 
-Brief description of what this project does and what problem it solves. 2-3 sentences.
+Comprehensive analysis of music industry trends using Billboard Hot 100 data, exploring artist performance patterns, genre evolution, and chart dynamics across multiple decades. Expanded from artist-specific analysis to broader music industry landscape insights.
 
 **Technologies Used**: 
-Python, Spark, AWS, Pandas, Scikit-learn
+Python, Pandas, Matplotlib, Seaborn, NumPy
 
 **Key Features**:
-- Feature 1: Description
-- Feature 2: Description
-- Feature 3: Description
+- Time-series analysis of chart performance and artist longevity
+- Genre trend identification and evolution tracking
+- Artist performance metrics and comparative analysis
+- Data visualization of music industry patterns
 
 **Outcomes**: 
-What did you learn? What were the results? Any metrics?
+Identified key trends in music industry evolution and developed insights into factors contributing to chart success. Demonstrated proficiency in data cleaning, exploratory data analysis, and statistical visualization.
 
-**Links**: [GitHub Repository](https://github.com/t-primero/project1) | [Live Demo](#)
+**Links**: [GitHub Repository](https://github.com/t-primero/billboard-chart-analysis)
 
 ---
 
-## 📊 Project 2: [Project Name]
-
-![](images/project2.png)
+## 💼 AI vs Non-AI Career Analysis
 
 **Description**: 
-Another project description.
+Led data analysis for comprehensive study examining geographic job market patterns, salary trends, and remote work opportunities comparing AI-focused versus traditional career paths across different US markets.
 
 **Technologies Used**: 
-R, Quarto, ggplot2, Shiny
+Python, SQL, PySpark, AWS, Statistical Modeling
 
 **Key Features**:
-- Feature 1
-- Feature 2
-- Feature 3
-
-**Outcomes**: 
-Results and learnings
-
-**Links**: [GitHub](https://github.com/t-primero/project2)
-
----
-
-## 🤖 Project 3: Machine Learning Classification
-
-**Description**: 
-Built a machine learning classifier using Spark ML to predict [something]. Implemented multiple algorithms including Random Forest, Logistic Regression, and Gradient-Boosted Trees.
-
-**Technologies Used**: 
-Apache Spark, PySpark, Python, Jupyter Notebooks
-
-**Key Features**:
-- Dimensionality reduction using PCA
-- Multiple classification algorithms comparison
-- Model evaluation with cross-validation
-- Deployed on AWS EC2
+- Large-scale job market data processing and cleaning
+- Salary trend analysis and predictive modeling
+- Geographic pattern analysis across metropolitan areas
+- Remote work trend identification
 
 **Results**: 
-Achieved XX% accuracy with Random Forest model. Full analysis available on GitHub.
+Delivered actionable insights on career opportunities and salary expectations across different markets and career paths. Served as data lead for Group 09's comprehensive analysis.
 
-**Links**: [GitHub Repository](https://github.com/t-primero/ml-project) | [Report](files/ml-report.pdf)
+**Links**: [GitHub Repository](https://github.com/t-primero/group09-job-market-analysis-2024.git)
 
 ---
 
 ## 💡 More Projects
 
-Check out my [GitHub profile](https://github.com/t-primero) for more projects including:
-- Project idea 1
-- Project idea 2
-- Project idea 3
+Check out my [GitHub profile](https://github.com/t-primero) for more projects and ongoing work in data analytics and machine learning.
 
 :::
