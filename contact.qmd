@@ -25,11 +25,16 @@ I'm always interested in discussing new opportunities, collaborations, or just c
 
 ## What I'm Looking For
 
-Brief paragraph about what opportunities interest you:
+## What I'm Looking For
 
-- Internships in data engineering/analytics
-- Research collaborations
-- Freelance projects
-- Networking with professionals in [industry]
+I'm actively seeking **full-time data analyst and data scientist roles** starting May 2026 (upon graduation). I'm particularly interested in positions that emphasize exploratory data analysis, statistical modeling, and translating complex datasets into actionable business insights—especially within marketing analytics or research-focused teams.
+
+I'm also open to:
+
+- **Networking conversations** with data professionals about career paths and industry trends
+- **Collaborative projects** involving data mining, machine learning, or predictive modeling
+- **Informational interviews** at companies tackling interesting data challenges
+
+Feel free to reach out if you'd like to discuss opportunities, grab coffee (virtual or in-person), or connect about all things data!
 
 :::

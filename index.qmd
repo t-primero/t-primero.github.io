@@ -3,27 +3,27 @@ title: "About Me"
 ---
 
 ::: {.column-page}
-
-<center>
-![](images/profile.jpg){width=300px style="border-radius: 50%;"}
-</center>
+![](images/IMG_0069.JPG){width=100% style="max-height: 300px; object-fit: cover;"}
+:::
 
 ## Hi, I'm Thomas Primero! 👋
 
-I'm a 2nd year Master's student studying Business Analytics at Boston University, with a passion for cloud analytics, data engineering, and machine learning.
+I'm a 2nd year Master's student studying Business Analytics at Boston University, with a passion for data analytics, statistical modeling, and machine learning.
 
 ## Background
 
-[ insert background ]
+I started my career in finance and operations at Charles Schwab, where I work as an Operations Specialist validating complex payroll and census datasets. While I excelled at ensuring data integrity and automating workflows with Excel and VBA, I found myself increasingly drawn to the why behind the numbers—what patterns existed, what predictions we could make, and how data could drive strategic decisions.
+This curiosity led me to Boston University's Master's program in Business Analytics, where I've discovered my passion for the investigative side of data science. Through coursework in data mining, machine learning, and statistical modeling, I've learned to approach problems systematically: starting with messy, real-world datasets and transforming them into actionable insights through rigorous exploratory analysis and feature engineering.
 
 ## What I Do
 
 I specialize in:
 
-- **Cloud Computing**: Working with AWS, EC2, and cloud-based data solutions
-- **Data Analytics**: Using Spark, Python, and R for large-scale data processing
+- **Data Analytics**: Using Python, SQL, and R for data processing and analysis
 - **Machine Learning**: Building predictive models and classification algorithms
+- **Data Mining**: Feature engineering, exploratory analysis, and uncovering patterns in complex datasets
 - **Data Visualization**: Creating interactive dashboards with Plotly and Tableau
+
 
 ## Skills
 
@@ -35,14 +35,18 @@ I specialize in:
 
 ## Career Goals
 
-Although currently working as a payroll analyst, my current career goals are to ...
+I'm transitioning from operations into data analytics, combining my finance background with advanced analytics training from Boston University's Master's program. I'm particularly drawn to data analyst and data scientist roles where I can uncover insights through rigorous research and statistical modeling.
+
+What drives me is the investigative side of analytics; diving deep into messy datasets, asking the right questions during exploratory analysis, and transforming raw data into meaningful patterns. My data mining coursework solidified this passion, teaching me to approach problems systematically: from feature engineering and cleaning to building predictive models that actually tell a story.
+
+My ideal role would leverage both my operational foundation; validating complex datasets, ensuring data integrity, automating workflows and my technical skills in Python, SQL, and machine learning. I'm especially interested in marketing analytics or research-focused teams where thorough data exploration directly shapes strategic decisions.
 
 ## Interests
 
 When I'm not analyzing data, I enjoy:
 
-- Being active at the gym/outdoors
-- Traveling
-- Reading books
+- Being active at the gym/outdoors. I love walking the many trails in Austin, Texas.
+- Traveling/Exploring new places, foods, and even ideas!
+- Reading books and learning new things.
 
 :::

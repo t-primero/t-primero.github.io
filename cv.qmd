@@ -14,7 +14,7 @@ title: "Curriculum Vitae"
 
 ## Professional Summary
 
-Brief 2-3 sentence summary of your experience, skills, and career objectives.
+Operations specialist transitioning into data analytics with hands-on experience validating complex datasets and automating workflows at Charles Schwab. Currently pursuing a Master's in Business Analytics at Boston University, specializing in data mining, machine learning, and statistical modeling. Seeking data analyst or data scientist roles where I can apply rigorous analytical skills to uncover actionable insights through exploratory analysis, feature engineering, and predictive modeling.
 
 ## Education
 
@@ -24,7 +24,7 @@ Expected Graduation: Spring 2026
 
 **Relevant Coursework**:
 
-- Cloud Analytics
+- Data Mining
 - Marketing Analytics
 - Business Analytics
 
@@ -34,11 +34,11 @@ Expected Graduation: Spring 2026
 
 **Data Tools**: Apache Spark, Pandas, NumPy, Scikit-learn
 
-**Cloud & DevOps**: AWS (EC2, S3), Git, GitHub, Docker
+**Machine Learning**: Scikit-learn, Feature Engineering, Predictive Modeling
 
 **Visualization**: Plotly, ggplot2, Tableau, Matplotlib
 
-**Other**: Quarto, Jupyter, RStudio, VS Code
+**Other**: Git, GitHub, AWS, Quarto, Jupyter, RStudio, VS Code
 
 
 
@@ -46,8 +46,9 @@ Expected Graduation: Spring 2026
 
 See my [Projects page](projects.qmd) for detailed project descriptions.
 
-## Certifications & Awards
+## Certifications
 
-- AWS Cloud Foundations Trained
+- **Google Data Analytics Certificate** (November 2025)
+- **AWS Cloud Foundations Training Badge** (October 2025)
 
 :::
