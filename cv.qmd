@@ -2,16 +2,6 @@
 title: "Curriculum Vitae"
 ---
 
-::: {.column-page}
-
-## Download My CV
-
-<a href="files/your-cv.pdf" class="btn btn-primary" download>
-  <i class="bi bi-download"></i> Download Full CV (PDF)
-</a>
-
----
-
 ## Professional Summary
 
 Operations specialist transitioning into data analytics with hands-on experience validating complex datasets and automating workflows at Charles Schwab. Currently pursuing a Master's in Business Analytics at Boston University, specializing in data mining, machine learning, and statistical modeling. Seeking data analyst or data scientist roles where I can apply rigorous analytical skills to uncover actionable insights through exploratory analysis, feature engineering, and predictive modeling.
