@@ -73,43 +73,43 @@
     "objectID": "index.html#hi-im-thomas-primero",
     "href": "index.html#hi-im-thomas-primero",
     "title": "About Me",
-    "section": "",
-    "text": "I’m a 2nd year Master’s student studying Business Analytics at Boston University, with a passion for data analytics, statistical modeling, and machine learning."
+    "section": "Hi, I’m Thomas Primero! 👋",
+    "text": "Hi, I’m Thomas Primero! 👋\nI’m a 2nd year Master’s student studying Business Analytics at Boston University, with a passion for data analytics, statistical modeling, and machine learning."
   },
   {
     "objectID": "index.html#background",
     "href": "index.html#background",
     "title": "About Me",
-    "section": "",
-    "text": "I started my career in finance and operations at Charles Schwab, where I work as an Operations Specialist validating complex payroll and census datasets. While I excelled at ensuring data integrity and automating workflows with Excel and VBA, I found myself increasingly drawn to the why behind the numbers—what patterns existed, what predictions we could make, and how data could drive strategic decisions. This curiosity led me to Boston University’s Master’s program in Business Analytics, where I’ve discovered my passion for the investigative side of data science. Through coursework in data mining, machine learning, and statistical modeling, I’ve learned to approach problems systematically: starting with messy, real-world datasets and transforming them into actionable insights through rigorous exploratory analysis and feature engineering."
+    "section": "Background",
+    "text": "Background\nI started my career in finance and operations at Charles Schwab, where I work as an Operations Specialist validating complex payroll and census datasets. While I excelled at ensuring data integrity and automating workflows with Excel and VBA, I found myself increasingly drawn to the why behind the numbers—what patterns existed, what predictions we could make, and how data could drive strategic decisions. This curiosity led me to Boston University’s Master’s program in Business Analytics, where I’ve discovered my passion for the investigative side of data science. Through coursework in data mining, machine learning, and statistical modeling, I’ve learned to approach problems systematically: starting with messy, real-world datasets and transforming them into actionable insights through rigorous exploratory analysis and feature engineering."
   },
   {
     "objectID": "index.html#what-i-do",
     "href": "index.html#what-i-do",
     "title": "About Me",
-    "section": "",
-    "text": "I specialize in:\n\nData Analytics: Using Python, SQL, and R for data processing and analysis\nMachine Learning: Building predictive models and classification algorithms\nData Mining: Feature engineering, exploratory analysis, and uncovering patterns in complex datasets\nData Visualization: Creating interactive dashboards with Plotly and Tableau"
+    "section": "What I Do",
+    "text": "What I Do\nI specialize in:\n\nData Analytics: Using Python, SQL, and R for data processing and analysis\nMachine Learning: Building predictive models and classification algorithms\nData Mining: Feature engineering, exploratory analysis, and uncovering patterns in complex datasets\nData Visualization: Creating interactive dashboards with Plotly and Tableau"
   },
   {
     "objectID": "index.html#skills",
     "href": "index.html#skills",
     "title": "About Me",
-    "section": "",
-    "text": "Programming Languages: Python, R, SQL, Java\nTechnologies: Apache Spark, AWS, GitHub, Quarto, Jupyter\nTools: VS Code, RStudio, Git"
+    "section": "Skills",
+    "text": "Skills\nProgramming Languages: Python, R, SQL, Java\nTechnologies: Apache Spark, AWS, GitHub, Quarto, Jupyter\nTools: VS Code, RStudio, Git"
   },
   {
     "objectID": "index.html#career-goals",
     "href": "index.html#career-goals",
     "title": "About Me",
-    "section": "",
-    "text": "I’m transitioning from operations into data analytics, combining my finance background with advanced analytics training from Boston University’s Master’s program. I’m particularly drawn to data analyst and data scientist roles where I can uncover insights through rigorous research and statistical modeling.\nWhat drives me is the investigative side of analytics; diving deep into messy datasets, asking the right questions during exploratory analysis, and transforming raw data into meaningful patterns. My data mining coursework solidified this passion, teaching me to approach problems systematically: from feature engineering and cleaning to building predictive models that actually tell a story.\nMy ideal role would leverage both my operational foundation; validating complex datasets, ensuring data integrity, automating workflows and my technical skills in Python, SQL, and machine learning. I’m especially interested in marketing analytics or research-focused teams where thorough data exploration directly shapes strategic decisions."
+    "section": "Career Goals",
+    "text": "Career Goals\nI’m transitioning from operations into data analytics, combining my finance background with advanced analytics training from Boston University’s Master’s program. I’m particularly drawn to data analyst and data scientist roles where I can uncover insights through rigorous research and statistical modeling.\nWhat drives me is the investigative side of analytics; diving deep into messy datasets, asking the right questions during exploratory analysis, and transforming raw data into meaningful patterns. My data mining coursework solidified this passion, teaching me to approach problems systematically: from feature engineering and cleaning to building predictive models that actually tell a story.\nMy ideal role would leverage both my operational foundation; validating complex datasets, ensuring data integrity, automating workflows and my technical skills in Python, SQL, and machine learning. I’m especially interested in marketing analytics or research-focused teams where thorough data exploration directly shapes strategic decisions."
   },
   {
     "objectID": "index.html#interests",
     "href": "index.html#interests",
     "title": "About Me",
-    "section": "",
-    "text": "When I’m not analyzing data, I enjoy:\n\nBeing active at the gym/outdoors. I love walking the many trails in Austin, Texas.\nTraveling/Exploring new places, foods, and even ideas!\nReading books and learning new things."
+    "section": "Interests",
+    "text": "Interests\nWhen I’m not analyzing data, I enjoy:\n\nBeing active at the gym/outdoors. I love walking the many trails in Austin, Texas.\nTraveling/Exploring new places, foods, and even ideas!\nReading books and learning new things."
   },
   {
     "objectID": "cv.html",
