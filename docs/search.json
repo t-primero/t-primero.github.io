@@ -32,7 +32,11 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
+<<<<<<< HEAD
     "text": "Here are some of my key projects that demonstrate my skills in data analytics, visualization, and business analysis.\n\n\n\n\n\n\nRevenue Distribution\n\n\n\n\n\nUnits Sold Distribution\n\n\n\n\n\nUnits Sold vs Revenue (Under 10k)\n\n\nDescription: An end-to-end exploratory data analysis of 11,500 Apple sales transactions across 27 features, spanning 2022–2024. The project covers data cleaning, imputation, visualization, and business-driven insights across product categories, regions, sales channels, and customer segments.\nTechnologies Used: Python, Pandas, Matplotlib, Seaborn, Jupyter Notebooks\nKey Highlights:\n\nCleaned and imputed missing data across storage, previous device OS, and customer rating columns\nBuilt 15+ visualizations including distribution plots, heatmaps, correlation analysis, and revenue breakdowns\nIdentified that discounting does not drive volume — the 15% discount tier generates ~$427 less revenue per transaction with no compensating uplift in units sold\nAnalyzed return rates, customer ratings, and revenue by region, category, and sales channel\n\n\n\n\n\nApple Sales Analysis GitHub Repo\n\n\n\n\n\nCheck out my GitHub profile for the latest work."
+=======
+    "text": "Here are some of my key projects that demonstrate my skills in data analytics, machine learning, and cloud computing.\n\n\n\n\n\n\nBillboard Chart Analysis\n\n\nDescription: Comprehensive analysis of music industry trends using Billboard Hot 100 data, exploring artist performance patterns, genre evolution, and chart dynamics across multiple decades. Expanded from artist-specific analysis to broader music industry landscape insights.\nTechnologies Used: Python, Pandas, Matplotlib, Seaborn, NumPy\nKey Features: - Time-series analysis of chart performance and artist longevity - Genre trend identification and evolution tracking - Artist performance metrics and comparative analysis - Data visualization of music industry patterns\nOutcomes: Identified key trends in music industry evolution and developed insights into factors contributing to chart success. Demonstrated proficiency in data cleaning, exploratory data analysis, and statistical visualization.\nLinks: GitHub Repository\n\n\n\n\nDescription: Led data analysis for comprehensive study examining geographic job market patterns, salary trends, and remote work opportunities comparing AI-focused versus traditional career paths across different US markets.\nTechnologies Used: Python, SQL, PySpark, AWS, Statistical Modeling\nKey Features: - Large-scale job market data processing and cleaning - Salary trend analysis and predictive modeling - Geographic pattern analysis across metropolitan areas - Remote work trend identification\nResults: Delivered actionable insights on career opportunities and salary expectations across different markets and career paths. Served as data lead for Group 09’s comprehensive analysis.\nLinks: GitHub Repository\n\n\n\n\nCheck out my GitHub profile for more projects and ongoing work in data analytics and machine learning."
+>>>>>>> 16ae3ecf2cf6de97771424c658d9c63eaa3bc419
   },
   {
     "objectID": "projects.html#project-1-project-name",
@@ -60,7 +64,7 @@
     "href": "projects.html#more-projects",
     "title": "Projects",
     "section": "",
-    "text": "Check out my GitHub profile for more projects including: - Project idea 1 - Project idea 2 - Project idea 3"
+    "text": "Check out my GitHub profile for more projects and ongoing work in data analytics and machine learning."
   },
   {
     "objectID": "index.html",
@@ -179,6 +183,7 @@
     "href": "projects.html#more-projects-coming-soon",
     "title": "Projects",
     "section": "",
+<<<<<<< HEAD
     "text": "Check out my GitHub profile for the latest work."
   },
   {
@@ -194,5 +199,29 @@
     "title": "Projects",
     "section": "",
     "text": "Revenue Distribution\n\n\n\n\n\nUnits Sold Distribution\n\n\n\n\n\nUnits Sold vs Revenue (Under 10k)\n\n\nDescription: An end-to-end exploratory data analysis of 11,500 Apple sales transactions across 27 features, spanning 2022–2024. The project covers data cleaning, imputation, visualization, and business-driven insights across product categories, regions, sales channels, and customer segments.\nTechnologies Used: Python, Pandas, Matplotlib, Seaborn, Jupyter Notebooks\nKey Highlights:\n\nCleaned and imputed missing data across storage, previous device OS, and customer rating columns\nBuilt 15+ visualizations including distribution plots, heatmaps, correlation analysis, and revenue breakdowns\nIdentified that discounting does not drive volume — the 15% discount tier generates ~$427 less revenue per transaction with no compensating uplift in units sold\nAnalyzed return rates, customer ratings, and revenue by region, category, and sales channel"
+=======
+    "text": "Google Data Analytics Certificate (November 2025)\nAWS Cloud Foundations Training Badge (October 2025)"
+  },
+  {
+    "objectID": "projects.html#billboard-hot-100-analysis",
+    "href": "projects.html#billboard-hot-100-analysis",
+    "title": "Projects",
+    "section": "",
+    "text": "Billboard Chart Analysis\n\n\nDescription: Comprehensive analysis of music industry trends using Billboard Hot 100 data, exploring artist performance patterns, genre evolution, and chart dynamics across multiple decades. Expanded from artist-specific analysis to broader music industry landscape insights.\nTechnologies Used: Python, Pandas, Matplotlib, Seaborn, NumPy\nKey Features: - Time-series analysis of chart performance and artist longevity - Genre trend identification and evolution tracking - Artist performance metrics and comparative analysis - Data visualization of music industry patterns\nOutcomes: Identified key trends in music industry evolution and developed insights into factors contributing to chart success. Demonstrated proficiency in data cleaning, exploratory data analysis, and statistical visualization.\nLinks: GitHub Repository"
+  },
+  {
+    "objectID": "projects.html#zurich-airbnb-market-analysis",
+    "href": "projects.html#zurich-airbnb-market-analysis",
+    "title": "Projects",
+    "section": "",
+    "text": "Description: Analyzed Zurich’s Airbnb market using data mining techniques including decision trees, random forest models, and geographic mapping to identify pricing patterns and market opportunities.\nTechnologies Used: Python, PySpark, AWS EC2, Scikit-learn, Data Visualization Libraries\nKey Features: - Predictive modeling with Random Forest and Decision Trees - Geographic visualization and neighborhood analysis - Feature importance analysis and model interpretation - Statistical modeling for pricing optimization\nOutcomes: Successfully identified key factors influencing Airbnb pricing in Zurich and provided data-driven insights for market positioning. Collaborated with team on comprehensive market analysis report.\nLinks: GitHub Repository"
+  },
+  {
+    "objectID": "projects.html#ai-vs-non-ai-career-analysis",
+    "href": "projects.html#ai-vs-non-ai-career-analysis",
+    "title": "Projects",
+    "section": "",
+    "text": "Description: Led data analysis for comprehensive study examining geographic job market patterns, salary trends, and remote work opportunities comparing AI-focused versus traditional career paths across different US markets.\nTechnologies Used: Python, SQL, PySpark, AWS, Statistical Modeling\nKey Features: - Large-scale job market data processing and cleaning - Salary trend analysis and predictive modeling - Geographic pattern analysis across metropolitan areas - Remote work trend identification\nResults: Delivered actionable insights on career opportunities and salary expectations across different markets and career paths. Served as data lead for Group 09’s comprehensive analysis.\nLinks: GitHub Repository"
+>>>>>>> 16ae3ecf2cf6de97771424c658d9c63eaa3bc419
   }
 ]
