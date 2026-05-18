@@ -8,12 +8,13 @@ title: "About Me"
 
 ## Hi, I'm Thomas Primero! 👋
 
-I'm a 2nd year Master's student studying Business Analytics at Boston University, with a passion for data analytics, statistical modeling, and machine learning.
+I'm a recent Business Analytics graduate from Boston University with a background in finance and operations. I enjoy building visualizations that tell a clear story and turning raw data into practical business solutions, whether that's through analysis, modeling, or writing functions that make the work repeatable and scalable.
 
 ## Background
 
-I started my career in finance and operations at Charles Schwab, where I work as an Operations Specialist validating complex payroll and census datasets. While I excelled at ensuring data integrity and automating workflows with Excel and VBA, I found myself increasingly drawn to the why behind the numbers—what patterns existed, what predictions we could make, and how data could drive strategic decisions.
-This curiosity led me to Boston University's Master's program in Business Analytics, where I've discovered my passion for the investigative side of data science. Through coursework in data mining, machine learning, and statistical modeling, I've learned to approach problems systematically: starting with messy, real-world datasets and transforming them into actionable insights through rigorous exploratory analysis and feature engineering.
+I started my career as an Operations Specialist at Charles Schwab, validating complex payroll and census datasets and automating workflows with Excel and VBA. I was good at it, but I kept finding myself more interested in the patterns behind the numbers than the numbers themselves. What did the data actually mean? What could it predict? That curiosity is what led me to Boston University.
+
+At BU, I leaned into the investigative side of analytics; taking messy, real-world datasets and working through them end to end: cleaning, exploring, visualizing, and building solutions that actually mean something to a business. I graduated in May 2026 with a Master's in Business Analytics, and that process of turning raw data into a clear answer is still what I enjoy most.
 
 ## What I Do
 
@@ -23,29 +24,29 @@ I specialize in:
 - **Machine Learning**: Building predictive models and classification algorithms
 - **Data Mining**: Feature engineering, exploratory analysis, and uncovering patterns in complex datasets
 - **Data Visualization**: Creating interactive dashboards with Plotly and Tableau
+- **Business Analysis**: Writing reusable functions and building end-to-end analysis pipelines that translate data into actionable business recommendations
 
 
 ## Skills
 
 **Programming Languages**: Python, R, SQL, Java
 
-**Technologies**: Apache Spark, AWS, GitHub, Quarto, Jupyter
+**Technologies**: Apache Spark, AWS, GitHub, Quarto, Jupyter, Matplotlib, Seaborn
 
 **Tools**: VS Code, RStudio, Git
 
 ## Career Goals
 
-I'm transitioning from operations into data analytics, combining my finance background with advanced analytics training from Boston University's Master's program. I'm particularly drawn to data analyst and data scientist roles where I can uncover insights through rigorous research and statistical modeling.
+I'm a recent graduate looking for a data analyst or data scientist role where I can do work that actually matters to a business. My operations background at Charles Schwab gives me a practical lens;I understand data quality, I've worked with and have seen how messy real datasets get, and I know how to communicate findings to people who aren't data/payroll analysts.
 
-What drives me is the investigative side of analytics; diving deep into messy datasets, asking the right questions during exploratory analysis, and transforming raw data into meaningful patterns. My data mining coursework solidified this passion, teaching me to approach problems systematically: from feature engineering and cleaning to building predictive models that actually tell a story.
-
-My ideal role would leverage both my operational foundation; validating complex datasets, ensuring data integrity, automating workflows and my technical skills in Python, SQL, and machine learning. I'm especially interested in marketing analytics or research-focused teams where thorough data exploration directly shapes strategic decisions.
+I'm especially drawn to roles in marketing analytics, public sector research, or research-focused teams where thorough exploration directly shapes strategy — whether that's in the private sector or public service.
 
 ## Interests
 
 When I'm not analyzing data, I enjoy:
 
-- Being active at the gym/outdoors. I love walking the many trails in Austin, Texas.
-- Traveling/Exploring new places, foods, and even ideas!
-- Reading books and learning new things.
+- Staying active — hiking the trails around Austin and high-intensity interval training at the gym
+- Going to concerts and creating music in Logic Pro
+- Reading and picking up new ideas wherever I can
+
 

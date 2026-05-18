@@ -2,31 +2,26 @@
 title: "Curriculum Vitae"
 ---
 
-::: {.column-page}
-
-## Download My CV
-
-<a href="files/your-cv.pdf" class="btn btn-primary" download>
-  <i class="bi bi-download"></i> Download Full CV (PDF)
-</a>
-
----
 
 ## Professional Summary
 
-Operations specialist transitioning into data analytics with hands-on experience validating complex datasets and automating workflows at Charles Schwab. Currently pursuing a Master's in Business Analytics at Boston University, specializing in data mining, machine learning, and statistical modeling. Seeking data analyst or data scientist roles where I can apply rigorous analytical skills to uncover actionable insights through exploratory analysis, feature engineering, and predictive modeling.
+Recent Business Analytics graduate from Boston University with hands-on experience validating complex datasets and automating workflows at Charles Schwab. Skilled in Python, SQL, and R with a focus on data analysis, visualization, and building practical business solutions from messy, real-world data. Seeking data analyst or data scientist roles in the private or public sector where thorough analysis directly shapes decisions.
+
+
 
 ## Education
 
 **Boston University**  
 *Master's of Science in Business Analytics*  
-Expected Graduation: Spring 2026  
+Graduated: May 2026
 
 **Relevant Coursework**:
 
 - Data Mining
 - Marketing Analytics
 - Business Analytics
+- Machine Learning
+- Database Management / SQL
 
 ## Technical Skills
 
@@ -36,7 +31,7 @@ Expected Graduation: Spring 2026
 
 **Machine Learning**: Scikit-learn, Feature Engineering, Predictive Modeling
 
-**Visualization**: Plotly, ggplot2, Tableau, Matplotlib
+**Visualization**: Plotly, ggplot2, Matplotlib, Seaborn, Tableau, Matplotlib
 
 **Other**: Git, GitHub, AWS, Quarto, Jupyter, RStudio, VS Code
 
@@ -51,4 +46,3 @@ See my [Projects page](projects.qmd) for detailed project descriptions.
 - **Google Data Analytics Certificate** (November 2025)
 - **AWS Cloud Foundations Training Badge** (October 2025)
 
-:::

@@ -32,14 +32,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Here are some of my key projects that demonstrate my skills in data analytics, machine learning, and cloud computing.\n\n\n\n\n\n\nProject Screenshot or Diagram\n\n\nDescription: Brief description of what this project does and what problem it solves. 2-3 sentences.\nTechnologies Used: Python, Spark, AWS, Pandas, Scikit-learn\nKey Features: - Feature 1: Description - Feature 2: Description - Feature 3: Description\nOutcomes: What did you learn? What were the results? Any metrics?\nLinks: GitHub Repository | Live Demo\n\n\n\n\n\nDescription: Another project description.\nTechnologies Used: R, Quarto, ggplot2, Shiny\nKey Features: - Feature 1 - Feature 2 - Feature 3\nOutcomes: Results and learnings\nLinks: GitHub\n\n\n\n\nDescription: Built a machine learning classifier using Spark ML to predict [something]. Implemented multiple algorithms including Random Forest, Logistic Regression, and Gradient-Boosted Trees.\nTechnologies Used: Apache Spark, PySpark, Python, Jupyter Notebooks\nKey Features: - Dimensionality reduction using PCA - Multiple classification algorithms comparison - Model evaluation with cross-validation - Deployed on AWS EC2\nResults: Achieved XX% accuracy with Random Forest model. Full analysis available on GitHub.\nLinks: GitHub Repository | Report\n\n\n\n\nCheck out my GitHub profile for more projects including: - Project idea 1 - Project idea 2 - Project idea 3"
+    "text": "Here are some of my key projects that demonstrate my skills in data analytics, visualization, and business analysis.\n\n\n\n\n\n\nRevenue Distribution\n\n\n\n\n\nUnits Sold Distribution\n\n\n\n\n\nUnits Sold vs Revenue (Under 10k)\n\n\nDescription: An end-to-end exploratory data analysis of 11,500 Apple sales transactions across 27 features, spanning 2022–2024. The project covers data cleaning, imputation, visualization, and business-driven insights across product categories, regions, sales channels, and customer segments.\nTechnologies Used: Python, Pandas, Matplotlib, Seaborn, Jupyter Notebooks\nKey Highlights:\n\nCleaned and imputed missing data across storage, previous device OS, and customer rating columns\nBuilt 15+ visualizations including distribution plots, heatmaps, correlation analysis, and revenue breakdowns\nIdentified that discounting does not drive volume — the 15% discount tier generates ~$427 less revenue per transaction with no compensating uplift in units sold\nAnalyzed return rates, customer ratings, and revenue by region, category, and sales channel\n\n\n\n\n\nApple Sales Analysis GitHub Repo\n\n\n\n\n\nCheck out my GitHub profile for the latest work."
   },
   {
     "objectID": "projects.html#project-1-project-name",
     "href": "projects.html#project-1-project-name",
     "title": "Projects",
     "section": "",
-    "text": "Project Screenshot or Diagram\n\n\nDescription: Brief description of what this project does and what problem it solves. 2-3 sentences.\nTechnologies Used: Python, Spark, AWS, Pandas, Scikit-learn\nKey Features: - Feature 1: Description - Feature 2: Description - Feature 3: Description\nOutcomes: What did you learn? What were the results? Any metrics?\nLinks: GitHub Repository | Live Demo"
+    "text": "Revenue Distribution\n\n\n\n\n\nUnits Sold Distribution\n\n\n\n\n\nUnits Sold vs Revenue (Under 10k)\n\n\nDescription: An end-to-end exploratory data analysis of 11,500 Apple sales transactions across 27 features, spanning 2022–2024. The project covers data cleaning, imputation, visualization, and business-driven insights across product categories, regions, sales channels, and customer segments.\nTechnologies Used: Python, Pandas, Matplotlib, Seaborn, Jupyter Notebooks\nKey Highlights:\n\nCleaned and imputed missing data across storage, previous device OS, and customer rating columns\nBuilt 15+ visualizations including distribution plots, heatmaps, correlation analysis, and revenue breakdowns\nIdentified that discounting does not drive volume — the 15% discount tier generates ~$427 less revenue per transaction with no compensating uplift in units sold\nAnalyzed return rates, customer ratings, and revenue by region, category, and sales channel"
   },
   {
     "objectID": "projects.html#project-2-project-name",
@@ -74,49 +74,49 @@
     "href": "index.html#hi-im-thomas-primero",
     "title": "About Me",
     "section": "Hi, I’m Thomas Primero! 👋",
-    "text": "Hi, I’m Thomas Primero! 👋\nI’m a 2nd year Master’s student studying Business Analytics at Boston University, with a passion for data analytics, statistical modeling, and machine learning."
+    "text": "Hi, I’m Thomas Primero! 👋\nI’m a recent Business Analytics graduate from Boston University with a background in finance and operations. I enjoy building visualizations that tell a clear story and turning raw data into practical business solutions, whether that’s through analysis, modeling, or writing functions that make the work repeatable and scalable."
   },
   {
     "objectID": "index.html#background",
     "href": "index.html#background",
     "title": "About Me",
     "section": "Background",
-    "text": "Background\nI started my career in finance and operations at Charles Schwab, where I work as an Operations Specialist validating complex payroll and census datasets. While I excelled at ensuring data integrity and automating workflows with Excel and VBA, I found myself increasingly drawn to the why behind the numbers—what patterns existed, what predictions we could make, and how data could drive strategic decisions. This curiosity led me to Boston University’s Master’s program in Business Analytics, where I’ve discovered my passion for the investigative side of data science. Through coursework in data mining, machine learning, and statistical modeling, I’ve learned to approach problems systematically: starting with messy, real-world datasets and transforming them into actionable insights through rigorous exploratory analysis and feature engineering."
+    "text": "Background\nI started my career as an Operations Specialist at Charles Schwab, validating complex payroll and census datasets and automating workflows with Excel and VBA. I was good at it, but I kept finding myself more interested in the patterns behind the numbers than the numbers themselves. What did the data actually mean? What could it predict? That curiosity is what led me to Boston University.\nAt BU, I leaned into the investigative side of analytics; taking messy, real-world datasets and working through them end to end: cleaning, exploring, visualizing, and building solutions that actually mean something to a business. I graduated in May 2026 with a Master’s in Business Analytics, and that process of turning raw data into a clear answer is still what I enjoy most."
   },
   {
     "objectID": "index.html#what-i-do",
     "href": "index.html#what-i-do",
     "title": "About Me",
     "section": "What I Do",
-    "text": "What I Do\nI specialize in:\n\nData Analytics: Using Python, SQL, and R for data processing and analysis\nMachine Learning: Building predictive models and classification algorithms\nData Mining: Feature engineering, exploratory analysis, and uncovering patterns in complex datasets\nData Visualization: Creating interactive dashboards with Plotly and Tableau"
+    "text": "What I Do\nI specialize in:\n\nData Analytics: Using Python, SQL, and R for data processing and analysis\nMachine Learning: Building predictive models and classification algorithms\nData Mining: Feature engineering, exploratory analysis, and uncovering patterns in complex datasets\nData Visualization: Creating interactive dashboards with Plotly and Tableau\nBusiness Analysis: Writing reusable functions and building end-to-end analysis pipelines that translate data into actionable business recommendations"
   },
   {
     "objectID": "index.html#skills",
     "href": "index.html#skills",
     "title": "About Me",
     "section": "Skills",
-    "text": "Skills\nProgramming Languages: Python, R, SQL, Java\nTechnologies: Apache Spark, AWS, GitHub, Quarto, Jupyter\nTools: VS Code, RStudio, Git"
+    "text": "Skills\nProgramming Languages: Python, R, SQL, Java\nTechnologies: Apache Spark, AWS, GitHub, Quarto, Jupyter, Matplotlib, Seaborn\nTools: VS Code, RStudio, Git"
   },
   {
     "objectID": "index.html#career-goals",
     "href": "index.html#career-goals",
     "title": "About Me",
     "section": "Career Goals",
-    "text": "Career Goals\nI’m transitioning from operations into data analytics, combining my finance background with advanced analytics training from Boston University’s Master’s program. I’m particularly drawn to data analyst and data scientist roles where I can uncover insights through rigorous research and statistical modeling.\nWhat drives me is the investigative side of analytics; diving deep into messy datasets, asking the right questions during exploratory analysis, and transforming raw data into meaningful patterns. My data mining coursework solidified this passion, teaching me to approach problems systematically: from feature engineering and cleaning to building predictive models that actually tell a story.\nMy ideal role would leverage both my operational foundation; validating complex datasets, ensuring data integrity, automating workflows and my technical skills in Python, SQL, and machine learning. I’m especially interested in marketing analytics or research-focused teams where thorough data exploration directly shapes strategic decisions."
+    "text": "Career Goals\nI’m a recent graduate looking for a data analyst or data scientist role where I can do work that actually matters to a business. My operations background at Charles Schwab gives me a practical lens;I understand data quality, I’ve worked with and have seen how messy real datasets get, and I know how to communicate findings to people who aren’t data/payroll analysts.\nI’m especially drawn to roles in marketing analytics, public sector research, or research-focused teams where thorough exploration directly shapes strategy — whether that’s in the private sector or public service."
   },
   {
     "objectID": "index.html#interests",
     "href": "index.html#interests",
     "title": "About Me",
     "section": "Interests",
-    "text": "Interests\nWhen I’m not analyzing data, I enjoy:\n\nBeing active at the gym/outdoors. I love walking the many trails in Austin, Texas.\nTraveling/Exploring new places, foods, and even ideas!\nReading books and learning new things."
+    "text": "Interests\nWhen I’m not analyzing data, I enjoy:\n\nStaying active — hiking the trails around Austin and high-intensity interval training at the gym\nGoing to concerts and creating music in Logic Pro\nReading and picking up new ideas wherever I can"
   },
   {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "Download Full CV (PDF) \n\n\n\n\nOperations specialist transitioning into data analytics with hands-on experience validating complex datasets and automating workflows at Charles Schwab. Currently pursuing a Master’s in Business Analytics at Boston University, specializing in data mining, machine learning, and statistical modeling. Seeking data analyst or data scientist roles where I can apply rigorous analytical skills to uncover actionable insights through exploratory analysis, feature engineering, and predictive modeling.\n\n\n\nBoston University\nMaster’s of Science in Business Analytics\nExpected Graduation: Spring 2026\nRelevant Coursework:\n\nData Mining\nMarketing Analytics\nBusiness Analytics\n\n\n\n\nProgramming: Python, R, SQL, Java, JavaScript\nData Tools: Apache Spark, Pandas, NumPy, Scikit-learn\nMachine Learning: Scikit-learn, Feature Engineering, Predictive Modeling\nVisualization: Plotly, ggplot2, Tableau, Matplotlib\nOther: Git, GitHub, AWS, Quarto, Jupyter, RStudio, VS Code\n\n\n\nSee my Projects page for detailed project descriptions.\n\n\n\n\nGoogle Data Analytics Certificate (November 2025)\nAWS Cloud Foundations Training Badge (October 2025)"
+    "text": "Recent Business Analytics graduate from Boston University with hands-on experience validating complex datasets and automating workflows at Charles Schwab. Skilled in Python, SQL, and R with a focus on data analysis, visualization, and building practical business solutions from messy, real-world data. Seeking data analyst or data scientist roles in the private or public sector where thorough analysis directly shapes decisions."
   },
   {
     "objectID": "cv.html#download-my-cv",
@@ -130,28 +130,28 @@
     "href": "cv.html#professional-summary",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "Operations specialist transitioning into data analytics with hands-on experience validating complex datasets and automating workflows at Charles Schwab. Currently pursuing a Master’s in Business Analytics at Boston University, specializing in data mining, machine learning, and statistical modeling. Seeking data analyst or data scientist roles where I can apply rigorous analytical skills to uncover actionable insights through exploratory analysis, feature engineering, and predictive modeling."
+    "text": "Recent Business Analytics graduate from Boston University with hands-on experience validating complex datasets and automating workflows at Charles Schwab. Skilled in Python, SQL, and R with a focus on data analysis, visualization, and building practical business solutions from messy, real-world data. Seeking data analyst or data scientist roles in the private or public sector where thorough analysis directly shapes decisions."
   },
   {
     "objectID": "cv.html#education",
     "href": "cv.html#education",
     "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Boston University\nMaster’s of Science in Business Analytics\nExpected Graduation: Spring 2026\nRelevant Coursework:\n\nData Mining\nMarketing Analytics\nBusiness Analytics"
+    "section": "Education",
+    "text": "Education\nBoston University\nMaster’s of Science in Business Analytics\nGraduated: May 2026\nRelevant Coursework:\n\nData Mining\nMarketing Analytics\nBusiness Analytics\nMachine Learning\nDatabase Management / SQL"
   },
   {
     "objectID": "cv.html#technical-skills",
     "href": "cv.html#technical-skills",
     "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Programming: Python, R, SQL, Java, JavaScript\nData Tools: Apache Spark, Pandas, NumPy, Scikit-learn\nMachine Learning: Scikit-learn, Feature Engineering, Predictive Modeling\nVisualization: Plotly, ggplot2, Tableau, Matplotlib\nOther: Git, GitHub, AWS, Quarto, Jupyter, RStudio, VS Code"
+    "section": "Technical Skills",
+    "text": "Technical Skills\nProgramming: Python, R, SQL, Java, JavaScript\nData Tools: Apache Spark, Pandas, NumPy, Scikit-learn\nMachine Learning: Scikit-learn, Feature Engineering, Predictive Modeling\nVisualization: Plotly, ggplot2, Matplotlib, Seaborn, Tableau, Matplotlib\nOther: Git, GitHub, AWS, Quarto, Jupyter, RStudio, VS Code"
   },
   {
     "objectID": "cv.html#projects",
     "href": "cv.html#projects",
     "title": "Curriculum Vitae",
-    "section": "",
-    "text": "See my Projects page for detailed project descriptions."
+    "section": "Projects",
+    "text": "Projects\nSee my Projects page for detailed project descriptions."
   },
   {
     "objectID": "cv.html#certifications-awards",
@@ -171,7 +171,28 @@
     "objectID": "cv.html#certifications",
     "href": "cv.html#certifications",
     "title": "Curriculum Vitae",
+    "section": "Certifications",
+    "text": "Certifications\n\nGoogle Data Analytics Certificate (November 2025)\nAWS Cloud Foundations Training Badge (October 2025)"
+  },
+  {
+    "objectID": "projects.html#more-projects-coming-soon",
+    "href": "projects.html#more-projects-coming-soon",
+    "title": "Projects",
     "section": "",
-    "text": "Google Data Analytics Certificate (November 2025)\nAWS Cloud Foundations Training Badge (October 2025)"
+    "text": "Check out my GitHub profile for the latest work."
+  },
+  {
+    "objectID": "projects.html#links",
+    "href": "projects.html#links",
+    "title": "Projects",
+    "section": "",
+    "text": "Apple Sales Analysis GitHub Repo"
+  },
+  {
+    "objectID": "projects.html#apple-global-sales-analysis",
+    "href": "projects.html#apple-global-sales-analysis",
+    "title": "Projects",
+    "section": "",
+    "text": "Revenue Distribution\n\n\n\n\n\nUnits Sold Distribution\n\n\n\n\n\nUnits Sold vs Revenue (Under 10k)\n\n\nDescription: An end-to-end exploratory data analysis of 11,500 Apple sales transactions across 27 features, spanning 2022–2024. The project covers data cleaning, imputation, visualization, and business-driven insights across product categories, regions, sales channels, and customer segments.\nTechnologies Used: Python, Pandas, Matplotlib, Seaborn, Jupyter Notebooks\nKey Highlights:\n\nCleaned and imputed missing data across storage, previous device OS, and customer rating columns\nBuilt 15+ visualizations including distribution plots, heatmaps, correlation analysis, and revenue breakdowns\nIdentified that discounting does not drive volume — the 15% discount tier generates ~$427 less revenue per transaction with no compensating uplift in units sold\nAnalyzed return rates, customer ratings, and revenue by region, category, and sales channel"
   }
 ]
