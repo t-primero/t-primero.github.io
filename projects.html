@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.26">
+<meta name="generator" content="quarto-1.9.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>Projects – Thomas Primero</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -32,15 +35,14 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b758ccaa5987ceb1b75504551e579abf.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-d0ae9245876894da5ac7e18953ecc5cc.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-cd884f2855776405ca61470c593c983e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-764dd65e74ff0e9782df7d2aac61274d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -152,36 +154,49 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="page-columns page-full">
-<p>Here are some of my key projects that demonstrate my skills in data analytics, machine learning, and cloud computing.</p>
+<div class="column-page">
+<p>Here are some of my key projects that demonstrate my skills in data analytics, visualization, and business analysis.</p>
 <hr>
-<section id="billboard-hot-100-analysis" class="level2 page-columns page-full">
-<h2 class="anchored" data-anchor-id="billboard-hot-100-analysis">🎵 Billboard Hot 100 Analysis</h2>
-<div class="quarto-figure quarto-figure-center page-columns page-full">
-<figure class="figure page-columns page-full">
-<p class="page-columns page-full"><img src="images/billboard-preview.png" class="img-fluid figure-img column-page"></p>
-<figcaption>Billboard Chart Analysis</figcaption>
+<section id="apple-global-sales-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="apple-global-sales-analysis">Apple Global Sales Analysis</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/revenue_distribution.png" class="img-fluid figure-img"></p>
+<figcaption>Revenue Distribution</figcaption>
 </figure>
 </div>
-<p><strong>Description</strong>: Comprehensive analysis of music industry trends using Billboard Hot 100 data, exploring artist performance patterns, genre evolution, and chart dynamics across multiple decades. Expanded from artist-specific analysis to broader music industry landscape insights.</p>
-<p><strong>Technologies Used</strong>: Python, Pandas, Matplotlib, Seaborn, NumPy</p>
-<p><strong>Key Features</strong>: - Time-series analysis of chart performance and artist longevity - Genre trend identification and evolution tracking - Artist performance metrics and comparative analysis - Data visualization of music industry patterns</p>
-<p><strong>Outcomes</strong>: Identified key trends in music industry evolution and developed insights into factors contributing to chart success. Demonstrated proficiency in data cleaning, exploratory data analysis, and statistical visualization.</p>
-<p><strong>Links</strong>: <a href="https://github.com/t-primero/billboard-chart-analysis">GitHub Repository</a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/units_sold_distribution.png" class="img-fluid figure-img"></p>
+<figcaption>Units Sold Distribution</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/units_sold_vs_revenue_under10k.png" class="img-fluid figure-img"></p>
+<figcaption>Units Sold vs Revenue (Under 10k)</figcaption>
+</figure>
+</div>
+<p><strong>Description</strong>: An end-to-end exploratory data analysis of 11,500 Apple sales transactions across 27 features, spanning 2022–2024. The project covers data cleaning, imputation, visualization, and business-driven insights across product categories, regions, sales channels, and customer segments.</p>
+<p><strong>Technologies Used</strong>: Python, Pandas, Matplotlib, Seaborn, Jupyter Notebooks</p>
+<p><strong>Key Highlights</strong>:</p>
+<ul>
+<li>Cleaned and imputed missing data across storage, previous device OS, and customer rating columns</li>
+<li>Built 15+ visualizations including distribution plots, heatmaps, correlation analysis, and revenue breakdowns</li>
+<li>Identified that discounting does not drive volume — the 15% discount tier generates ~$427 less revenue per transaction with no compensating uplift in units sold</li>
+<li>Analyzed return rates, customer ratings, and revenue by region, category, and sales channel</li>
+</ul>
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+<ul>
+<li><a href="https://github.com/t-primero/apple-sales-analysis.git">Apple Sales Analysis GitHub Repo</a></li>
+</ul>
 <hr>
 </section>
-<section id="ai-vs-non-ai-career-analysis" class="level2">
-<h2 class="anchored" data-anchor-id="ai-vs-non-ai-career-analysis">💼 AI vs Non-AI Career Analysis</h2>
-<p><strong>Description</strong>: Led data analysis for comprehensive study examining geographic job market patterns, salary trends, and remote work opportunities comparing AI-focused versus traditional career paths across different US markets.</p>
-<p><strong>Technologies Used</strong>: Python, SQL, PySpark, AWS, Statistical Modeling</p>
-<p><strong>Key Features</strong>: - Large-scale job market data processing and cleaning - Salary trend analysis and predictive modeling - Geographic pattern analysis across metropolitan areas - Remote work trend identification</p>
-<p><strong>Results</strong>: Delivered actionable insights on career opportunities and salary expectations across different markets and career paths. Served as data lead for Group 09’s comprehensive analysis.</p>
-<p><strong>Links</strong>: <a href="https://github.com/t-primero/group09-job-market-analysis-2024.git">GitHub Repository</a></p>
-<hr>
-</section>
-<section id="more-projects" class="level2">
-<h2 class="anchored" data-anchor-id="more-projects">💡 More Projects</h2>
-<p>Check out my <a href="https://github.com/t-primero">GitHub profile</a> for more projects and ongoing work in data analytics and machine learning.</p>
+<section id="more-projects-coming-soon" class="level2">
+<h2 class="anchored" data-anchor-id="more-projects-coming-soon">More Projects Coming Soon</h2>
+<p>Check out my <a href="https://github.com/t-primero">GitHub profile</a> for the latest work.</p>
 </section>
 </div>
 
