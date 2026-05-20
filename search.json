@@ -88,7 +88,7 @@
     "href": "cv.html#education",
     "title": "Curriculum Vitae",
     "section": "Education",
-    "text": "Education\nBoston University\nMaster’s of Science in Business Analytics\nGraduated: May 2026\nRelevant Coursework:\n\nData Mining\nMarketing Analytics\nBusiness Analytics\nMachine Learning\nDatabase Management / SQL"
+    "text": "Education\nBoston University\nMaster’s of Science in Business Analytics\nGraduated: May 2026\nRelevant Coursework:\n\nData Mining\nMarketing Analytics\nBusiness Analytics Foundations\nMachine Learning\nPython and SQL for Business Analytics\nCloud Analytics\n\nUniversity of Texas at El Paso\nB.B.A. in Finance\nGraduated: May 2020"
   },
   {
     "objectID": "cv.html#technical-skills",
@@ -98,13 +98,6 @@
     "text": "Technical Skills\nProgramming: Python, R, SQL, Java, JavaScript\nData Tools: Apache Spark, Pandas, NumPy, Scikit-learn\nMachine Learning: Scikit-learn, Feature Engineering, Predictive Modeling\nVisualization: Plotly, ggplot2, Matplotlib, Seaborn, Tableau, Matplotlib\nOther: Git, GitHub, AWS, Quarto, Jupyter, RStudio, VS Code"
   },
   {
-    "objectID": "cv.html#projects",
-    "href": "cv.html#projects",
-    "title": "Curriculum Vitae",
-    "section": "Projects",
-    "text": "Projects\nSee my Projects page for detailed project descriptions."
-  },
-  {
     "objectID": "cv.html#certifications",
     "href": "cv.html#certifications",
     "title": "Curriculum Vitae",
@@ -112,11 +105,25 @@
     "text": "Certifications\n\nGoogle Data Analytics Certificate (November 2025)\nAWS Cloud Foundations Training Badge (October 2025)"
   },
   {
+    "objectID": "cv.html#projects",
+    "href": "cv.html#projects",
+    "title": "Curriculum Vitae",
+    "section": "Projects",
+    "text": "Projects\nSee my Projects page for detailed descriptions."
+  },
+  {
+    "objectID": "cv.html#resume-available-upon-request",
+    "href": "cv.html#resume-available-upon-request",
+    "title": "Curriculum Vitae",
+    "section": "📄 Resume Available Upon Request",
+    "text": "📄 Resume Available Upon Request\nInterested in my full resume? Reach out to this e-mail or connect on LinkedIn and I’ll send it over promptly."
+  },
+  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact Me",
     "section": "",
-    "text": "I’m always interested in discussing new opportunities, collaborations, or just chatting about data and technology.\n\n\n\n\n📧 Email: tprimero43@gmail.com\n💼 LinkedIn: linkedin.com/in/thomas-primero\n🐙 GitHub: github.com/t-primero\n\n\n\n\n\nI’m actively seeking full-time data analyst and data scientist roles. I’m particularly interested in positions that emphasize exploratory data analysis, statistical modeling, and translating complex datasets into actionable business insights — especially within financial services, marketing analytics, or research-focused teams.\nI’m also open to:\n\nNetworking conversations with data professionals about career paths and industry trends\nCollaborative projects involving data mining, machine learning, or predictive modeling\nInformational interviews at companies tackling interesting data challenges\n\nFeel free to reach out if you’d like to discuss opportunities, grab coffee (virtual or in-person), or connect about all things data!"
+    "text": "I’m always interested in discussing new opportunities, collaborations, or just chatting about data and technology.\n\n\n\n\n📧 Email: tprimero43@gmail.com\n💼 LinkedIn: linkedin.com/in/thomas-primero\n🐙 GitHub: github.com/t-primero\n📍 Austin, TX — Open to hybrid and remote roles\n\n\n\n\n\nI’m actively seeking full-time data analyst and data scientist roles. I’m particularly interested in positions that emphasize exploratory data analysis, statistical modeling, and translating complex datasets into actionable business insights — especially within financial services, marketing analytics, or research-focused teams.\nI’m also open to:\n\nNetworking conversations with data professionals about career paths and industry trends\nCollaborative projects involving data mining, machine learning, or predictive modeling\nInformational interviews at companies tackling interesting data challenges\n\nFeel free to reach out if you’d like to discuss opportunities, grab coffee (virtual or in-person), or connect about all things data!"
   },
   {
     "objectID": "contact.html#lets-connect",
@@ -130,7 +137,7 @@
     "href": "contact.html#get-in-touch",
     "title": "Contact Me",
     "section": "",
-    "text": "📧 Email: tprimero43@gmail.com\n💼 LinkedIn: linkedin.com/in/thomas-primero\n🐙 GitHub: github.com/t-primero"
+    "text": "📧 Email: tprimero43@gmail.com\n💼 LinkedIn: linkedin.com/in/thomas-primero\n🐙 GitHub: github.com/t-primero\n📍 Austin, TX — Open to hybrid and remote roles"
   },
   {
     "objectID": "contact.html#what-im-looking-for",
