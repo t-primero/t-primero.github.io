@@ -19,9 +19,14 @@ Graduated: May 2026
 
 - Data Mining
 - Marketing Analytics
-- Business Analytics
+- Business Analytics Foundations
 - Machine Learning
-- Database Management / SQL
+- Python and SQL for Business Analytics
+- Cloud Analytics
+
+**University of Texas at El Paso**  
+*B.B.A. in Finance*  
+Graduated: May 2020
 
 ## Technical Skills
 
@@ -35,14 +40,16 @@ Graduated: May 2026
 
 **Other**: Git, GitHub, AWS, Quarto, Jupyter, RStudio, VS Code
 
-
-
-## Projects
-
-See my [Projects page](projects.qmd) for detailed project descriptions.
-
 ## Certifications
 
 - **Google Data Analytics Certificate** (November 2025)
 - **AWS Cloud Foundations Training Badge** (October 2025)
+
+## Projects
+
+See my [Projects page](projects.qmd) for detailed descriptions.
+
+## 📄 Resume Available Upon Request
+Interested in my full resume? Reach out to this [e-mail](mailto:tprimero43@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/thomas-primero-1b7094173/) and I'll send it over promptly.
+
 
