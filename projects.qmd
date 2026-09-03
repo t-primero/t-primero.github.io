@@ -6,10 +6,9 @@ title: "Projects"
 
 Here are some of my key projects that demonstrate my skills in data analytics, visualization, and business analysis.
 
-
 ---
 
-## Apple Global Sales Analysis
+## [Apple Global Sales Analysis](https://github.com/t-primero/apple-sales-analysis)
 
 ![Revenue Distribution](images/revenue_distribution.png)
 
@@ -30,9 +29,6 @@ Python, Pandas, Matplotlib, Seaborn, Jupyter Notebooks
 - Identified that discounting does not drive volume — the 15% discount tier generates ~$427 less revenue per transaction with no compensating uplift in units sold
 - Analyzed return rates, customer ratings, and revenue by region, category, and sales channel
 
-## Links ##
-
-- [Apple Sales Analysis GitHub Repo](https://github.com/t-primero/apple-sales-analysis.git)
 
 ---
 ## More Projects Coming Soon
