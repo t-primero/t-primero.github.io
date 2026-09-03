@@ -1,10 +1,59 @@
 [
   {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Recent Business Analytics graduate from Boston University with hands-on experience validating complex datasets and automating workflows at Charles Schwab. Skilled in Python, SQL, and R with a focus on data analysis, visualization, and building practical business solutions from messy, real-world data. Seeking data analyst or data scientist roles in the private or public sector where thorough analysis directly shapes decisions."
+  },
+  {
+    "objectID": "cv.html#professional-summary",
+    "href": "cv.html#professional-summary",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Recent Business Analytics graduate from Boston University with hands-on experience validating complex datasets and automating workflows at Charles Schwab. Skilled in Python, SQL, and R with a focus on data analysis, visualization, and building practical business solutions from messy, real-world data. Seeking data analyst or data scientist roles in the private or public sector where thorough analysis directly shapes decisions."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\nBoston University\nMaster’s of Science in Business Analytics\nGraduated: May 2026\nRelevant Coursework:\n\nData Mining\nMarketing Analytics\nBusiness Analytics Foundations\nMachine Learning\nPython and SQL for Business Analytics\nCloud Analytics\n\nUniversity of Texas at El Paso\nB.B.A. in Finance\nGraduated: May 2020"
+  },
+  {
+    "objectID": "cv.html#technical-skills",
+    "href": "cv.html#technical-skills",
+    "title": "Curriculum Vitae",
+    "section": "Technical Skills",
+    "text": "Technical Skills\nProgramming: Python, R, SQL, Java, JavaScript\nData Tools: Apache Spark, Pandas, NumPy, Scikit-learn\nMachine Learning: Scikit-learn, Feature Engineering, Predictive Modeling\nVisualization: Plotly, ggplot2, Matplotlib, Seaborn, Tableau, Matplotlib\nOther: Git, GitHub, AWS, Quarto, Jupyter, RStudio, VS Code"
+  },
+  {
+    "objectID": "cv.html#certifications",
+    "href": "cv.html#certifications",
+    "title": "Curriculum Vitae",
+    "section": "Certifications",
+    "text": "Certifications\n\nGoogle Data Analytics Certificate (November 2025)\nAWS Cloud Foundations Training Badge (October 2025)"
+  },
+  {
+    "objectID": "cv.html#projects",
+    "href": "cv.html#projects",
+    "title": "Curriculum Vitae",
+    "section": "Projects",
+    "text": "Projects\nSee my Projects page for detailed descriptions."
+  },
+  {
+    "objectID": "cv.html#resume-available-upon-request",
+    "href": "cv.html#resume-available-upon-request",
+    "title": "Curriculum Vitae",
+    "section": "📄 Resume Available Upon Request",
+    "text": "📄 Resume Available Upon Request\nInterested in my full resume? Reach out to this e-mail or connect on LinkedIn and I’ll send it over promptly."
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Here are some of my key projects that demonstrate my skills in data analytics, visualization, and business analysis.\n\n\n\n\n\n\nRevenue Distribution\n\n\n\n\n\nUnits Sold Distribution\n\n\n\n\n\nUnits Sold vs Revenue (Under 10k)\n\n\nDescription: An end-to-end exploratory data analysis of 11,500 Apple sales transactions across 27 features, spanning 2022–2024. The project covers data cleaning, imputation, visualization, and business-driven insights across product categories, regions, sales channels, and customer segments.\nTechnologies Used: Python, Pandas, Matplotlib, Seaborn, Jupyter Notebooks\nKey Highlights:\n\nCleaned and imputed missing data across storage, previous device OS, and customer rating columns\nBuilt 15+ visualizations including distribution plots, heatmaps, correlation analysis, and revenue breakdowns\nIdentified that discounting does not drive volume — the 15% discount tier generates ~$427 less revenue per transaction with no compensating uplift in units sold\nAnalyzed return rates, customer ratings, and revenue by region, category, and sales channel\n\n\n\n\n\nApple Sales Analysis GitHub Repo\n\n\n\n\n\nCheck out my GitHub profile for the latest work."
+    "text": "Here are some of my key projects that demonstrate my skills in data analytics, visualization, and business analysis.\n\n\n\n\n\n\nRevenue Distribution\n\n\n\n\n\nUnits Sold Distribution\n\n\n\n\n\nUnits Sold vs Revenue (Under 10k)\n\n\nDescription: An end-to-end exploratory data analysis of 11,500 Apple sales transactions across 27 features, spanning 2022–2024. The project covers data cleaning, imputation, visualization, and business-driven insights across product categories, regions, sales channels, and customer segments.\nTechnologies Used: Python, Pandas, Matplotlib, Seaborn, Jupyter Notebooks\nKey Highlights:\n\nCleaned and imputed missing data across storage, previous device OS, and customer rating columns\nBuilt 15+ visualizations including distribution plots, heatmaps, correlation analysis, and revenue breakdowns\nIdentified that discounting does not drive volume — the 15% discount tier generates ~$427 less revenue per transaction with no compensating uplift in units sold\nAnalyzed return rates, customer ratings, and revenue by region, category, and sales channel\n\n\n\n\n\nCheck out my GitHub profile for the latest work."
   },
   {
     "objectID": "projects.html#apple-global-sales-analysis",
@@ -12,13 +61,6 @@
     "title": "Projects",
     "section": "",
     "text": "Revenue Distribution\n\n\n\n\n\nUnits Sold Distribution\n\n\n\n\n\nUnits Sold vs Revenue (Under 10k)\n\n\nDescription: An end-to-end exploratory data analysis of 11,500 Apple sales transactions across 27 features, spanning 2022–2024. The project covers data cleaning, imputation, visualization, and business-driven insights across product categories, regions, sales channels, and customer segments.\nTechnologies Used: Python, Pandas, Matplotlib, Seaborn, Jupyter Notebooks\nKey Highlights:\n\nCleaned and imputed missing data across storage, previous device OS, and customer rating columns\nBuilt 15+ visualizations including distribution plots, heatmaps, correlation analysis, and revenue breakdowns\nIdentified that discounting does not drive volume — the 15% discount tier generates ~$427 less revenue per transaction with no compensating uplift in units sold\nAnalyzed return rates, customer ratings, and revenue by region, category, and sales channel"
-  },
-  {
-    "objectID": "projects.html#links",
-    "href": "projects.html#links",
-    "title": "Projects",
-    "section": "",
-    "text": "Apple Sales Analysis GitHub Repo"
   },
   {
     "objectID": "projects.html#more-projects-coming-soon",
@@ -68,55 +110,6 @@
     "title": "About Me",
     "section": "Interests",
     "text": "Interests\nWhen I’m not analyzing data, I enjoy:\n\nStaying active — hiking the trails around Austin and high-intensity interval training at the gym\nGoing to concerts and creating music in Logic Pro\nReading and picking up new ideas wherever I can"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Recent Business Analytics graduate from Boston University with hands-on experience validating complex datasets and automating workflows at Charles Schwab. Skilled in Python, SQL, and R with a focus on data analysis, visualization, and building practical business solutions from messy, real-world data. Seeking data analyst or data scientist roles in the private or public sector where thorough analysis directly shapes decisions."
-  },
-  {
-    "objectID": "cv.html#professional-summary",
-    "href": "cv.html#professional-summary",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Recent Business Analytics graduate from Boston University with hands-on experience validating complex datasets and automating workflows at Charles Schwab. Skilled in Python, SQL, and R with a focus on data analysis, visualization, and building practical business solutions from messy, real-world data. Seeking data analyst or data scientist roles in the private or public sector where thorough analysis directly shapes decisions."
-  },
-  {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "Curriculum Vitae",
-    "section": "Education",
-    "text": "Education\nBoston University\nMaster’s of Science in Business Analytics\nGraduated: May 2026\nRelevant Coursework:\n\nData Mining\nMarketing Analytics\nBusiness Analytics Foundations\nMachine Learning\nPython and SQL for Business Analytics\nCloud Analytics\n\nUniversity of Texas at El Paso\nB.B.A. in Finance\nGraduated: May 2020"
-  },
-  {
-    "objectID": "cv.html#technical-skills",
-    "href": "cv.html#technical-skills",
-    "title": "Curriculum Vitae",
-    "section": "Technical Skills",
-    "text": "Technical Skills\nProgramming: Python, R, SQL, Java, JavaScript\nData Tools: Apache Spark, Pandas, NumPy, Scikit-learn\nMachine Learning: Scikit-learn, Feature Engineering, Predictive Modeling\nVisualization: Plotly, ggplot2, Matplotlib, Seaborn, Tableau, Matplotlib\nOther: Git, GitHub, AWS, Quarto, Jupyter, RStudio, VS Code"
-  },
-  {
-    "objectID": "cv.html#certifications",
-    "href": "cv.html#certifications",
-    "title": "Curriculum Vitae",
-    "section": "Certifications",
-    "text": "Certifications\n\nGoogle Data Analytics Certificate (November 2025)\nAWS Cloud Foundations Training Badge (October 2025)"
-  },
-  {
-    "objectID": "cv.html#projects",
-    "href": "cv.html#projects",
-    "title": "Curriculum Vitae",
-    "section": "Projects",
-    "text": "Projects\nSee my Projects page for detailed descriptions."
-  },
-  {
-    "objectID": "cv.html#resume-available-upon-request",
-    "href": "cv.html#resume-available-upon-request",
-    "title": "Curriculum Vitae",
-    "section": "📄 Resume Available Upon Request",
-    "text": "📄 Resume Available Upon Request\nInterested in my full resume? Reach out to this e-mail or connect on LinkedIn and I’ll send it over promptly."
   },
   {
     "objectID": "contact.html",
